@@ -1,0 +1,169 @@
+- name: AltspaceVR 시작
+  href: index.yml
+- name: AltspaceVR 살펴보기
+  href: journey.md
+- name: 시작
+  expanded: true
+  items:
+    - name: 시스템 요구 사항
+      href: getting-started/system-requirements.md
+    - name: Windows Mixed Reality 설치
+      href: getting-started/wmr-installation.md
+    - name: Oculus Quest/Quest 2 설치
+      href: getting-started/oculus-installation.md
+    - name: 계정 만들기
+      items:
+        - name: 계정 등록
+          href: getting-started/registration.md
+        - name: Microsoft 계정 연결
+          href: getting-started/linking-microsoft-account.md
+    - name: 입력 컨트롤
+      items:
+        - name: Windows Mixed Reality 컨트롤
+          href: getting-started/wmr-controls.md
+        - name: Oculus Quest/Quest 2 컨트롤
+          href: getting-started/oculus-controls.md
+        - name: 바로 가기 키
+          href: getting-started/keyboard-shortcuts.md
+        - name: 2D PC 모드에서 마우스/키보드를 사용하여 아바타 제어
+          href: getting-started/avatar-controls.md
+        - name: 게임 패드 컨트롤 사용
+          href: getting-started/gamepad-controls.md
+- name: 콘텐츠 및 사람 검색
+  items:
+    - name: 제목 화면 살펴보기
+      href: community/exploring-title-screen.md
+    - name: 뉴스레터 구독
+      href: community/newsletter-subscriptions.md
+    - name: 커뮤니티 참여
+      items:
+        - name: 커뮤니티 도우미 프로그램
+          href: community/community-helper-program.md
+        - name: 커뮤니티 도우미 가이드
+          href: community/community-helper-guide.md
+- name: 이벤트 만들기 및 호스팅
+  items:
+    - name: 기본 이벤트
+      items:
+        - name: 이벤트 설정
+          href: tutorials/creating-an-event.md
+        - name: '이벤트, 세계, 그룹 및 AltspaceVR에서의 역할'
+          href: getting-started/roles.md
+        - name: 주요 이벤트 요구 사항
+          href: tutorials/main-events.md
+        - name: 그룹 기능 사용
+          href: tutorials/group-features.md
+        - name: 삭제된 이벤트 복구
+          href: tutorials/recovering-deleted-events.md
+    - name: 고급 이벤트
+      items:
+        - name: FrontRow를 사용하여 대상 확장
+          href: faqs/scaling-audiences.md
+        - name: 웹 프로젝터
+          href: tutorials/web-projector-streaming.md
+        - name: 멀티미디어 콘솔
+          href: tutorials/multimedia-console.md
+        - name: 상호 작용식 스포너
+          href: tutorials/interactable-spawner.md
+        - name: 텔레포터
+          href: tutorials/teleporting.md
+    - name: 호스팅 도구
+      items:
+        - name: 개요
+          href: tutorials/host-tools-overview.md
+        - name: FrontRow 이벤트
+          href: tutorials/host-tools-for-events.md
+- name: 컨트롤 및 사용자 지정
+  items:
+    - name: 초기 액세스
+      href: world-building/early-access.md
+    - name: 세계 베타 프로그램
+      items:
+        - name: 기본 세계 빌드
+          items:
+            - name: 콘텐츠 만들기
+              href: community/creating-content.md
+            - name: 세계 편집기 시작
+              href: world-building/world-editor-getting-started.md
+            - name: 성능 향상
+              href: world-building/improving-performance.md
+            - name: 세계 관리
+              href: world-building/managing-worlds.md
+            - name: 환영 메시지 추가
+              href: world-building/adding-welcome-messages.md
+            - name: 스폰 지점 추가
+              href: world-building/adding-custom-spawn-points.md
+            - name: 세계 백업
+              href: world-building/backing-up-worlds.md
+            - name: 친구와 함께 세계 관리
+              href: world-building/granting-roles.md
+            - name: 친구에게 능력 부여
+              href: world-building/adding-user-abilities.md
+        - name: 고급 세계 빌드
+          items:
+            - name: 세계 빌드 도구 키트(Unity 업로더)
+              href: world-building/world-building-toolkit-getting-started.md
+            - name: Mixed Reality Extensions 사용
+              href: world-building/using-mixed-reality-extensions.md
+            - name: 키트 업로드
+              href: world-building/uploading-custom-kits.md
+            - name: glTF 모델 가져오기
+              href: world-building/importing-models.md
+            - name: skyboxes 업로드
+              href: world-building/uploading-custom-skyboxes.md
+        - name: FAQ
+          items:
+            - name: 세계 빌드 시작
+              href: world-building/world-building-getting-started.md
+            - name: 세계 빌드 도움말 보기
+              href: world-building/getting-help.md
+- name: 규칙 및 표준
+  items:
+    - name: 서비스 약관
+      href: community/terms-of-service.md
+    - name: 커뮤니티 표준
+      href: community/community-standards.md
+- name: 문제 해결 및 지원
+  items:
+    - name: 질문과 대답
+      items:
+        - name: 오디오
+          items:
+            - name: 내 VR 헤드셋에는 기본 제공 마이크가 있나요?
+              href: faqs/vr-headset-mic.md
+            - name: PTT(Push-to-Talk) 단추가 있나요?
+              href: faqs/push-to-talk.md
+            - name: 내 오디오가 고르지 않음
+              href: faqs/choppy-audio.md
+            - name: 다른 사용자가 내 말을 듣지 못함
+              href: faqs/other-users-cant-hear-me.md
+        - name: 계정 및 아바타
+          items:
+            - name: 이름표는 어떻게 작동하나요?
+              href: faqs/nametags.md
+            - name: 내 계정 정보를 어떻게 변경하나요?
+              href: faqs/updating-email-address.md
+        - name: AltspaceVR 애플리케이션
+          items:
+            - name: AltspaceVR 앱 버전은 어떻게 찾을 수 있나요?
+              href: faqs/app-version.md
+            - name: 클라이언트 로그는 어떻게 업로드할 수 있나요?
+              href: faqs/uploading-client-logs.md
+            - name: AltspaceVR를 시작할 수 없음
+              href: faqs/unable-to-launch.md
+        - name: 건강 및 안전
+          items:
+            - name: AltspaceVR이 멀미를 유발할 수 있나요?
+              href: faqs/motion-sickness.md
+        - name: 이벤트
+          items:
+            - name: FrontRow 이벤트란?
+              href: faqs/front-row-events.md
+- name: 문의처
+  items:
+    - name: 도움말 보기
+      href: community/open-support-ticket.md
+    - name: 기능 요청
+      href: community/feature-requests.md
+    - name: 악용 보고서 제출
+      href: community/filing-abuse-reports.md

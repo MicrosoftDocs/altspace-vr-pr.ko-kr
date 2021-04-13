@@ -1,0 +1,28 @@
+---
+title: 불건전 보고서 신고
+description: AltspaceVR의 신고 보고서 및 앱 내 안전 기능을 제공 하는 방법에 대 한 최신 지침을 확인 하세요.
+ms.date: 02/10/2021
+ms.topic: article
+keywords: 보고서, 문제
+ms.openlocfilehash: b2b7a5818b068dde6252dade072d5f7625bc35dc
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107213601"
+---
+# <a name="filing-an-abuse-report"></a><span data-ttu-id="4d717-104">불건전 보고서 신고</span><span class="sxs-lookup"><span data-stu-id="4d717-104">Filing an abuse report</span></span>
+
+<span data-ttu-id="4d717-105">AltspaceVR에서 편안 하 고 안전 하 게 최우선 순위입니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-105">In AltspaceVR your comfort and safety are a top priority.</span></span> <span data-ttu-id="4d717-106">악의적인 행위, 경멸적 또는 부적절 한 행동 또는 행동은 condone 하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-106">We don't condone any acts or behaviors that are offensive, derogatory, or inappropriate.</span></span> <span data-ttu-id="4d717-107">신고 보고서를 작성 하면 microsoft의 커뮤니티 표준 또는 서비스 약관을 위반 하는 사용자 또는 콘텐츠에 대해 중재 팀에 알릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-107">Filing an abuse report allows you to let our Moderation Team know about any users or content that is in violation of our Community Standards or Terms of Service.</span></span>
+
+<span data-ttu-id="4d717-108">잠시 시간 [을 투자 하](community-standards.md) 여 개인의 작업이 사용자 동작의 [기대를 위반](https://altvr.com/terms-of-service/#:~:text=1%20Consideration.%20AltVR%20currently%20provides%20free%20access%20to,...%205%20Eligibility.%20...%206%20Additional%20Terms.%20)하는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-108">Take a moment to review our [Community Standards](community-standards.md) and [Terms of Service](https://altvr.com/terms-of-service/#:~:text=1%20Consideration.%20AltVR%20currently%20provides%20free%20access%20to,...%205%20Eligibility.%20...%206%20Additional%20Terms.%20), to determine if the individual's actions are violating our expectation of user behavior.</span></span> <span data-ttu-id="4d717-109">주의가 필요 하다 고 생각 되 면 [신고 보고서를 파일](https://help.altvr.com/hc/requests/new?ticket_form_id=360000032154)에 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-109">If you feel it does warrant our attention, [file an Abuse Report](https://help.altvr.com/hc/requests/new?ticket_form_id=360000032154).</span></span> <span data-ttu-id="4d717-110">사용자 환경에 대 한 자세한 설명, 관련 표시 이름 및 사용자 이름을 정확 하 게 입력 하 고, 불건전 인스턴스가 발생 한 시기를 지정 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-110">Make sure to provide a detailed account of your experience, an accurate spelling of any relevant Display Names and Usernames, and specification of when the instance of abuse took place.</span></span> 
+
+<span data-ttu-id="4d717-111">이러한 작업을 수행 하 고, 사용자가 안전 하 게 안전 하 고 다른 사람들과 통신할 수 있는 장소로 AltspaceVR를 유지 관리 하는 데 필요한 작업을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-111">We'll follow up where appropriate, and take the necessary actions to maintain AltspaceVR as a place where people feel safe and are free to communicate with others.</span></span> <span data-ttu-id="4d717-112">개인 정보 취급 방침의 일부로 개인의 계정에 대 한 의사 결정 또는 상태를 알리지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-112">As part of our privacy policy, we won't inform you about our decisions or the status of any individual's account.</span></span>
+
+## <a name="in-app-safety-features"></a><span data-ttu-id="4d717-113">In-App 안전 기능</span><span class="sxs-lookup"><span data-stu-id="4d717-113">In-App Safety Features</span></span>
+
+<span data-ttu-id="4d717-114">남용 보고서 외에도 사용자 환경을 제어할 수 있도록 설계 된 몇 가지 앱 내 안전 도구가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-114">Remember that in addition to the Abuse Report, there are several in-app safety tools designed to give you control over your experience.</span></span> 
+
+<span data-ttu-id="4d717-115">언제 든 지 상호 작용 하지 않으려는 모든 사용자를 차단 하 고 음소거 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-115">At any time, you can Block and Mute any user that you don't wish to interact with.</span></span> <span data-ttu-id="4d717-116">아바타를 클릭 하 여 사용자의 이름 태그를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-116">Open a user's Name Tag by clicking on their avatar.</span></span> <span data-ttu-id="4d717-117">여기에서 음소거 및 블록을 비롯 한 몇 가지 단추를 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-117">Here you'll find several buttons including Mute and Block.</span></span> <span data-ttu-id="4d717-118">음소거 된 사용자에 대 한 오디오는 더 이상 듣지 못합니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-118">You'll no longer hear the audio for any user you mute.</span></span> <span data-ttu-id="4d717-119">차단 된 사용자는 더 이상 보거나 듣지 않으며 더 이상 보거나 듣지 못할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-119">Blocked users will no longer be seen or heard, and can no longer see or hear you.</span></span> 
+
+<span data-ttu-id="4d717-120">다른 사용자가 아바타에 게 너무 가까이 있을 때 문제가 발생 하면 개인 공간 버블을 활성화할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-120">If you're experiencing issues with other users getting too close to your Avatar, you can activate your Personal Space Bubble.</span></span> <span data-ttu-id="4d717-121">사용자에 게 너무 가까운 경우 개인 공간 거품형으로 인해 다른 사람이 보이지 않게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="4d717-121">Your Personal Space Bubble causes others to become invisible if they get too close to you.</span></span> 

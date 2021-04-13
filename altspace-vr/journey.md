@@ -1,0 +1,98 @@
+---
+title: AltspaceVR 탐색
+description: 큐 레이트 검사점 경험을 사용 하 여 AltspaceVR 플랫폼에서 가상 이벤트 만들기 및 호스팅을 시작 하세요.
+ms.date: 03/29/2021
+ms.topic: article
+keywords: altspace, 가상 현실, 이벤트, 전 세계 빌드, 자습서
+ms.openlocfilehash: 4eee1f00e76acca16323cb76c576307a33d50796
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107213074"
+---
+# <a name="exploring-altspacevr"></a><span data-ttu-id="7b36c-104">AltspaceVR 탐색</span><span class="sxs-lookup"><span data-stu-id="7b36c-104">Exploring AltspaceVR</span></span>
+
+![AltspaceVR 배너 이미지](images/altspace-vr-banner.png)
+
+<span data-ttu-id="7b36c-106">AltspaceVR는 가상 현실에 대 한 선행 소셜 플랫폼입니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-106">AltspaceVR is a leading social platform for virtual reality.</span></span> <span data-ttu-id="7b36c-107">아레나 규모 콘서트에서 특수 모임 ups까지 규모에 이르는 이벤트에 초점을 맞춘 AltspaceVR는 기술을 사용 하 여 인간 연결을 확장 하는 데 도움이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-107">Focused on events ranging in scale from arena-sized concerts to specialty meet ups, AltspaceVR uses technology to help you scale your human connection.</span></span>
+
+<span data-ttu-id="7b36c-108">숙련 된 AltspaceVR 숙련 또는 새 사용자 인지 여부에 관계 없이 사용할 수 있는 견고한 리소스를 사용 하는 것이 중요 합니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-108">Whether you're a seasoned AltspaceVR veteran or a new user, it's important to have solid resources that you can count on.</span></span> <span data-ttu-id="7b36c-109">가상 이벤트를 전 세계에 가져오는 과정을 안내 하는 다음 검사점을 컴파일 했습니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-109">We've compiled the following checkpoints to walk you through bringing your virtual events to the world.</span></span> <span data-ttu-id="7b36c-110">이러한 작업을 순서 대로 처리 하거나 원하는 항목을 알고 있는 경우 바로 살펴볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-110">You can cover them sequentially, which is what we recommend, or jump around at will if you know what you're looking for.</span></span> <span data-ttu-id="7b36c-111">어떤 경우 든 방향이 필요할 때마다이 과정을 다시 방문 하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-111">Either way, you'll want to revisit this journey whenever you need direction.</span></span>
+
+## <a name="1-getting-started"></a><span data-ttu-id="7b36c-112">1. 시작</span><span class="sxs-lookup"><span data-stu-id="7b36c-112">1. Getting started</span></span>
+
+<span data-ttu-id="7b36c-113">사용자 고유의 가상 이벤트 만들기 및 호스팅을 시작 하기 전에 올바른 도구와 계정이 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-113">Before you start creating and hosting your own virtual events, you'll need the right tools and accounts.</span></span> <span data-ttu-id="7b36c-114">이 섹션을 완료 하면 시스템을 제대로 구성 하 고 이동할 준비가 완료 됩니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-114">By the end of this section, you'll have your system properly configured and ready to go!</span></span>
+
+|  <span data-ttu-id="7b36c-115">검사점</span><span class="sxs-lookup"><span data-stu-id="7b36c-115">Checkpoint</span></span>  |  <span data-ttu-id="7b36c-116">결과</span><span class="sxs-lookup"><span data-stu-id="7b36c-116">Outcome</span></span>  |
+| --- | --- |
+| [<span data-ttu-id="7b36c-117">시스템 요구 사항</span><span class="sxs-lookup"><span data-stu-id="7b36c-117">System requirements</span></span>](getting-started/system-requirements.md) | <span data-ttu-id="7b36c-118">시작 하려면 적절 한 도구 및 시스템 요구 사항이 있는지 확인 하세요.</span><span class="sxs-lookup"><span data-stu-id="7b36c-118">Make sure you have the right tools and system requirements to get started</span></span> |
+| <span data-ttu-id="7b36c-119">[Windows Mixed Reality](getting-started/wmr-installation.md) 또는 [Oculus 퀘스트](getting-started/oculus-installation.md) 설치</span><span class="sxs-lookup"><span data-stu-id="7b36c-119">Install [Windows Mixed Reality](getting-started/wmr-installation.md) or [Oculus Quest](getting-started/oculus-installation.md)</span></span>| <span data-ttu-id="7b36c-120">최신 Windows Mixed Reality 또는 Oculus 퀘스트 앱 다운로드 및 설치</span><span class="sxs-lookup"><span data-stu-id="7b36c-120">Download and install the latest Windows Mixed Reality or Oculus Quest apps</span></span> |
+| [<span data-ttu-id="7b36c-121">AltspaceVR 계정 등록</span><span class="sxs-lookup"><span data-stu-id="7b36c-121">Register an AltspaceVR account</span></span>](getting-started/registration.md) | <span data-ttu-id="7b36c-122">AltspaceVR 앱 내에서 바로 계정을 만들고 등록 합니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-122">Create and register for an account right inside the AltspaceVR app</span></span> |
+| [<span data-ttu-id="7b36c-123">Microsoft 계정 연결</span><span class="sxs-lookup"><span data-stu-id="7b36c-123">Link your Microsoft account</span></span>](getting-started/linking-microsoft-account.md) | <span data-ttu-id="7b36c-124">단일 로그인으로 즐겨 사용 하는 Microsoft 제품 및 서비스에 액세스 하려면 Microsoft 계정 통합</span><span class="sxs-lookup"><span data-stu-id="7b36c-124">Integrate your Microsoft account to access your favorite Microsoft products and services with a single login</span></span> |
+
+## <a name="2-getting-comfortable"></a><span data-ttu-id="7b36c-125">2. 편안한 준비</span><span class="sxs-lookup"><span data-stu-id="7b36c-125">2. Getting comfortable</span></span>
+
+<span data-ttu-id="7b36c-126">AltspaceVR 이벤트는 가상 환경에서 발생 하므로 가상 공간을 편안 하 게 탐색 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-126">Since AltspaceVR events take place in the virtual world, you need to get comfortable navigating virtual space.</span></span> <span data-ttu-id="7b36c-127">이 섹션을 완료 하면 아바타 제어 하 고 바로 가기 키를 사용 하 여 자신 있게 이동할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-127">By the end of this section, you'll be confidently moving around, controlling avatars, and using keyboard shortcuts.</span></span>
+
+|  <span data-ttu-id="7b36c-128">검사점</span><span class="sxs-lookup"><span data-stu-id="7b36c-128">Checkpoint</span></span>  |  <span data-ttu-id="7b36c-129">결과</span><span class="sxs-lookup"><span data-stu-id="7b36c-129">Outcome</span></span>  |
+| --- | --- |
+| <span data-ttu-id="7b36c-130">[Windows Mixed Reality](getting-started/wmr-controls.md) 또는 [Oculus 퀘스트](getting-started/oculus-controls.md) 입력 컨트롤에 대해 알아보기</span><span class="sxs-lookup"><span data-stu-id="7b36c-130">Learn the [Windows Mixed Reality](getting-started/wmr-controls.md) or [Oculus Quest](getting-started/oculus-controls.md) input controls</span></span> | <span data-ttu-id="7b36c-131">Windows Mixed Reality 및 Oculus 퀘스트의 가상 제어에 대해 편안 하 게 이용</span><span class="sxs-lookup"><span data-stu-id="7b36c-131">Get comfortable with virtual controls in Windows Mixed Reality and Oculus Quest</span></span> |
+| [<span data-ttu-id="7b36c-132">아바타 제어</span><span class="sxs-lookup"><span data-stu-id="7b36c-132">Control your avatars</span></span>](getting-started/avatar-controls.md) | <span data-ttu-id="7b36c-133">가상 아바타을 제어 하기 위한 다양 한 컨트롤 스키마에 대해 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-133">Learn about the different control schemes for controlling your virtual avatars</span></span> |
+| [<span data-ttu-id="7b36c-134">유용한 바로 가기 키</span><span class="sxs-lookup"><span data-stu-id="7b36c-134">Helpful keyboard shortcuts</span></span>](getting-started/keyboard-shortcuts.md) | <span data-ttu-id="7b36c-135">최신 바로 가기 키를 사용 하 여 최신 상태로 유지</span><span class="sxs-lookup"><span data-stu-id="7b36c-135">Stay up-to-date with the latest keyboard shortcuts</span></span> |
+
+## <a name="3-for-guests--audiences"></a><span data-ttu-id="7b36c-136">3. 게스트 & 대상</span><span class="sxs-lookup"><span data-stu-id="7b36c-136">3. For guests & audiences</span></span>
+
+<span data-ttu-id="7b36c-137">항상 AltspaceVR의 호스트가 될 필요는 없습니다. 경우에 따라 대상 구성원 인 경우를 들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-137">You don't always have to be a host in AltspaceVR - sometimes you'll be a guest an audience member.</span></span> <span data-ttu-id="7b36c-138">이러한 경우에는 새 지역과 함께 제공 되는 기능 및 메뉴를 익히는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-138">For these occasions, you'll want to be familiar with the features and menus that come with the new territory.</span></span>
+
+|  <span data-ttu-id="7b36c-139">검사점</span><span class="sxs-lookup"><span data-stu-id="7b36c-139">Checkpoint</span></span>  |  <span data-ttu-id="7b36c-140">결과</span><span class="sxs-lookup"><span data-stu-id="7b36c-140">Outcome</span></span>  |
+| --- | --- |
+| [<span data-ttu-id="7b36c-141">제목 화면 탐색</span><span class="sxs-lookup"><span data-stu-id="7b36c-141">Exploring the Title Screen</span></span>](community/exploring-title-screen.md) | <span data-ttu-id="7b36c-142">제목 화면에서 AltspaceVR 플랫폼으로 이동 하 여 로그인 하거나 이벤트를 입력 하거나 아바타를 사용자 지정 합니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-142">Navigate the AltspaceVR platform from the Title Screen to login, enter an event, or customize your avatar</span></span> |
+| [<span data-ttu-id="7b36c-143">소셜 기능 & nametags</span><span class="sxs-lookup"><span data-stu-id="7b36c-143">Social features & nametags</span></span>](faqs/nametags.md) | <span data-ttu-id="7b36c-144">Nametags 및 소셜 기능이 AltspaceVR 내에서 작동 하는 방식 알아보기</span><span class="sxs-lookup"><span data-stu-id="7b36c-144">Learn how nametags and social features work within AltspaceVR</span></span> |
+
+## <a name="4-creating--hosting-events"></a><span data-ttu-id="7b36c-145">4. & 호스팅 이벤트 만들기</span><span class="sxs-lookup"><span data-stu-id="7b36c-145">4. Creating & hosting events</span></span>
+
+<span data-ttu-id="7b36c-146">이제 물류를 살펴보았습니다. 이제 이벤트를 만들고 호스트 하는 방법을 배울 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-146">Now you've covered the logistics, it's time to learn how to create and host events.</span></span> <span data-ttu-id="7b36c-147">AltspaceVR에는이 프로세스에 대 한 다양 한 기능이 있지만 기본 사항, 고급 옵션 및 호스팅 관련 도구로 분리 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-147">AltspaceVR has different features for this process, but we've separated them into the basics, more advanced options, and hosting-specific tools.</span></span> <span data-ttu-id="7b36c-148">이러한 항목을 순차적으로 이동 하 든 간에 이동 하 든 관계 없이이 섹션의 끝에 따라 사용자 고유의 이벤트를 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-148">Whether you go through these sequentially, or jump around, you'll be confidently creating your own events by the end of this section.</span></span>
+
+<span data-ttu-id="7b36c-149">**기본 이벤트 설정**</span><span class="sxs-lookup"><span data-stu-id="7b36c-149">**Basic event setup**</span></span>
+
+|  <span data-ttu-id="7b36c-150">검사점</span><span class="sxs-lookup"><span data-stu-id="7b36c-150">Checkpoint</span></span>  |  <span data-ttu-id="7b36c-151">결과</span><span class="sxs-lookup"><span data-stu-id="7b36c-151">Outcome</span></span>  |
+| --- | --- |
+| [<span data-ttu-id="7b36c-152">역할 이해</span><span class="sxs-lookup"><span data-stu-id="7b36c-152">Understand roles</span></span>](getting-started/roles.md) | <span data-ttu-id="7b36c-153">AltspaceVR 이벤트에 사용할 수 있는 여러 역할에 대해 알아보기</span><span class="sxs-lookup"><span data-stu-id="7b36c-153">Learn about the different roles available for AltspaceVR events</span></span> |
+| [<span data-ttu-id="7b36c-154">이벤트 설정</span><span class="sxs-lookup"><span data-stu-id="7b36c-154">Set up an event</span></span>](tutorials/creating-an-event.md) | <span data-ttu-id="7b36c-155">용어, 브랜딩, 멀티미디어 콘솔 및 더 많은 이벤트 만들기 기능에 대해 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-155">Get comfortable with terminology, branding, multimedia console, and more event creation features</span></span> |
+| [<span data-ttu-id="7b36c-156">그룹 기능 탐색</span><span class="sxs-lookup"><span data-stu-id="7b36c-156">Exploring the group features</span></span>](tutorials/group-features.md) | <span data-ttu-id="7b36c-157">가상 이벤트 게스트 목록을 수동으로 추가 및 구성 하는 방법 이해</span><span class="sxs-lookup"><span data-stu-id="7b36c-157">Understand how to manually add and configure your virtual event guest list</span></span> |
+| [<span data-ttu-id="7b36c-158">대상 그룹 확장</span><span class="sxs-lookup"><span data-stu-id="7b36c-158">Scaling your audiences</span></span>](faqs/scaling-audiences.md) | <span data-ttu-id="7b36c-159">여러 인스턴스에 걸쳐 전체 이벤트를 미러링 하 고 대상 그룹 크기를 늘립니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-159">Mirror your entire event across multiple instances and increase your audience size</span></span> |
+| <span data-ttu-id="7b36c-160">[멀티미디어 콘솔](tutorials/multimedia-console.md) 및 [웹 프로젝터와](tutorials/web-projector-streaming.md) 미디어 공유</span><span class="sxs-lookup"><span data-stu-id="7b36c-160">Sharing media with [Multimedia Console](tutorials/multimedia-console.md) and [Web Projector](tutorials/web-projector-streaming.md)</span></span> | <span data-ttu-id="7b36c-161">데스크톱 PC에서 AltspaceVR로 직접 지정 된 브라우저 탭을 스트리밍하는 방법에 대해 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-161">Learn how to stream a designated browser tab from your desktop PC directly into AltspaceVR</span></span> |
+
+<span data-ttu-id="7b36c-162">**고급 이벤트 설정**</span><span class="sxs-lookup"><span data-stu-id="7b36c-162">**Advanced event setup**</span></span>
+
+|  <span data-ttu-id="7b36c-163">검사점</span><span class="sxs-lookup"><span data-stu-id="7b36c-163">Checkpoint</span></span>  |  <span data-ttu-id="7b36c-164">결과</span><span class="sxs-lookup"><span data-stu-id="7b36c-164">Outcome</span></span>  |
+| --- | --- |
+| [<span data-ttu-id="7b36c-165">세계 편집기 시작</span><span class="sxs-lookup"><span data-stu-id="7b36c-165">Get started with the World Editor</span></span>](world-building/world-editor-getting-started.md) | <span data-ttu-id="7b36c-166">개체와 요소를 생성, 조작 및 배치한 후 전 세계를 구성 하는 방법을 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-166">Learn how to spawn, manipulate, and place objects and elements to construct a world</span></span> |
+| [<span data-ttu-id="7b36c-167">사용자 고유의 콘텐츠 만들기</span><span class="sxs-lookup"><span data-stu-id="7b36c-167">Create your own content</span></span>](community/creating-content.md) | <span data-ttu-id="7b36c-168">AltspaceVR에서 VR 콘텐츠 만들기 및 공유 시작</span><span class="sxs-lookup"><span data-stu-id="7b36c-168">Get started creating and sharing VR content in AltspaceVR</span></span> |
+| [<span data-ttu-id="7b36c-169">Teleporters를 사용 하 여 브레이크 실 만들기</span><span class="sxs-lookup"><span data-stu-id="7b36c-169">Using teleporters to create Breakout Rooms</span></span>](tutorials/teleporting.md) | <span data-ttu-id="7b36c-170">사용자가 한 이벤트와 세계 간에 탐색 하 고 이동 하도록 합니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-170">Let your users explore and travel from one event and world to another</span></span> |
+| [<span data-ttu-id="7b36c-171">3D 모델 가져오기 (글 Tf)</span><span class="sxs-lookup"><span data-stu-id="7b36c-171">Importing 3D models (glTF)</span></span>](world-building/importing-models.md) | <span data-ttu-id="7b36c-172">세계 편집기에서 모델을 만들기 위해 .bb 파일을 업로드 하는 방법을 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-172">Learn how to upload .glb files to create models in the World Editor</span></span> |
+| [<span data-ttu-id="7b36c-173">세계 성과 향상</span><span class="sxs-lookup"><span data-stu-id="7b36c-173">Improving world performance</span></span>](world-building/improving-performance.md) | <span data-ttu-id="7b36c-174">성능에 대 한 진단, 성능 도구 및 문제 해결 팁을 확인 하세요.</span><span class="sxs-lookup"><span data-stu-id="7b36c-174">Get diagnostics, performance tools, and troubleshooting tips for performance</span></span> |
+| [<span data-ttu-id="7b36c-175">사용자 지정 skyboxes 가져오기</span><span class="sxs-lookup"><span data-stu-id="7b36c-175">Importing custom skyboxes</span></span>](world-building/uploading-custom-skyboxes.md) | <span data-ttu-id="7b36c-176">사용자 고유의 사용자 지정 skyboxes 만들기 및 가져오기-가상 공간을 더 몰입 형으로 만들기</span><span class="sxs-lookup"><span data-stu-id="7b36c-176">Create and import your own custom skyboxes to make your virtual spaces more immersive</span></span> |
+
+<span data-ttu-id="7b36c-177">**호스팅 도구**</span><span class="sxs-lookup"><span data-stu-id="7b36c-177">**Hosting tools**</span></span>
+
+|  <span data-ttu-id="7b36c-178">검사점</span><span class="sxs-lookup"><span data-stu-id="7b36c-178">Checkpoint</span></span>  |  <span data-ttu-id="7b36c-179">결과</span><span class="sxs-lookup"><span data-stu-id="7b36c-179">Outcome</span></span>  |
+| --- | --- |
+| [<span data-ttu-id="7b36c-180">호스팅 도구를 사용 하 여 편안 하 게 이용</span><span class="sxs-lookup"><span data-stu-id="7b36c-180">Get comfortable with hosting tools</span></span>](tutorials/host-tools-overview.md) | <span data-ttu-id="7b36c-181">이벤트 호스트로 사용할 수 있는 다양 한 도구 집합 이해</span><span class="sxs-lookup"><span data-stu-id="7b36c-181">Understand the different set of tools you have as an event host</span></span> |
+| [<span data-ttu-id="7b36c-182">이벤트 표시 가능성 최대화</span><span class="sxs-lookup"><span data-stu-id="7b36c-182">Maximizing event visibility</span></span>](tutorials/main-events.md) | <span data-ttu-id="7b36c-183">더 쉽게 표시 하 고 시장성 이벤트를 최대한 활용 하세요.</span><span class="sxs-lookup"><span data-stu-id="7b36c-183">Get the most out of your events by making them more visible and marketable</span></span> |
+| [<span data-ttu-id="7b36c-184">FrontRow 이벤트에 대 한 호스트 도구</span><span class="sxs-lookup"><span data-stu-id="7b36c-184">Host tools for FrontRow events</span></span>](tutorials/host-tools-for-events.md) | <span data-ttu-id="7b36c-185">가상 이벤트 내에서 사용자에 게 호스팅 권한 부여</span><span class="sxs-lookup"><span data-stu-id="7b36c-185">Give hosting permissions to any of your users within your virtual events</span></span> |
+
+## <a name="5-troubleshooting"></a><span data-ttu-id="7b36c-186">5. 문제 해결</span><span class="sxs-lookup"><span data-stu-id="7b36c-186">5. Troubleshooting</span></span>
+
+<span data-ttu-id="7b36c-187">이벤트, 오디오, AltspaceVR 응용 프로그램을 만드는 데 문제가 있거나 문의처만 하려면 아래 문제 해결 섹션을 사용 하세요.</span><span class="sxs-lookup"><span data-stu-id="7b36c-187">If you're having any trouble with creating events, audio, the AltspaceVR application, or you just want to contact us, use the troubleshooting sections below.</span></span> 
+
+[!INCLUDE[](includes/troubleshooting.md)]
+
+## <a name="6-community--resources"></a><span data-ttu-id="7b36c-188">6. 커뮤니티 & 리소스</span><span class="sxs-lookup"><span data-stu-id="7b36c-188">6. Community & resources</span></span>
+
+<span data-ttu-id="7b36c-189">AltspaceVR는 커뮤니티 이며 참여 하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="7b36c-189">AltspaceVR is a community, and we'd love to have you join.</span></span> <span data-ttu-id="7b36c-190">몇 분만에 커뮤니티 표준, 서비스 약관, 개인 정보 취급 방침을 검토 하 고 모든 최신 뉴스에 대 한 뉴스레터를 구독 해 보세요.</span><span class="sxs-lookup"><span data-stu-id="7b36c-190">Take a minute to review our community standards, terms of service, privacy policy, and subscribe to our newsletter for all the latest news.</span></span>
+
+* [<span data-ttu-id="7b36c-191">커뮤니티 표준</span><span class="sxs-lookup"><span data-stu-id="7b36c-191">Community standards</span></span>](community/community-standards.md)
+* [<span data-ttu-id="7b36c-192">AltspaceVR 서비스 약관</span><span class="sxs-lookup"><span data-stu-id="7b36c-192">AltspaceVR Terms of Service</span></span>](community/terms-of-service.md)
+* [<span data-ttu-id="7b36c-193">Microsoft 개인 정보 취급 방침</span><span class="sxs-lookup"><span data-stu-id="7b36c-193">Microsoft Privacy Policy</span></span>](https://privacy.microsoft.com/privacystatement)
+* [<span data-ttu-id="7b36c-194">뉴스레터 구독</span><span class="sxs-lookup"><span data-stu-id="7b36c-194">Subscribe to our newsletter</span></span>](community/newsletter-subscriptions.md)
