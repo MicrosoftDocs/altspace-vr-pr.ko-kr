@@ -1,0 +1,115 @@
+### YamlMime:Hub
+title: AltspaceVR에 오신 것을 환영합니다!
+summary: AltspaceVR로 확장되는 VR 이벤트 세계를 살펴보세요.
+brand: windows
+metadata:
+  title: AltspaceVR에 오신 것을 환영합니다!
+  description: AltspaceVR로 확장되는 VR 이벤트 세계를 살펴보세요.
+  services: mixed-reality
+  ms.service: mixed-reality
+  ms.topic: hub-page
+  author: hferrone
+  ms.author: v-hferrone
+  ms.date: 02/10/2021
+highlightedContent:
+  items:
+    - title: 시작
+      itemType: get-started
+      url: getting-started/system-requirements.md
+    - title: 콘텐츠 및 사람 검색
+      itemType: overview
+      url: getting-started/system-requirements.md
+    - title: 이벤트 만들기
+      itemType: how-to-guide
+      url: tutorials/creating-an-event.md
+    - title: 세계 빌드
+      itemType: learn
+      url: world-building/world-editor-getting-started.md
+    - title: 초기 액세스
+      itemType: whats-new
+      url: world-building/early-access.md
+    - title: 문제 해결
+      itemType: reference
+      url: faqs/vr-headset-mic.md
+productDirectory:
+  title: 시작
+  summary: 'AltspaceVR을 사용하여 이벤트를 주최하고, 가상 세계를 구축하고, 전 세계의 원격 사용자 및 커뮤니티와 교류하세요.'
+  items:
+    - title: 설정 및 설치
+      imageSrc: images/icon-discovery.png
+      links:
+        - url: getting-started/registration.md
+          text: 계정 등록
+        - url: getting-started/linking-microsoft-account.md
+          text: Microsoft 계정 연결
+        - url: getting-started/wmr-installation.md
+          text: Windows Mixed Reality 설치
+        - url: getting-started/wmr-controls.md
+          text: Windows Mixed Reality 컨트롤
+        - url: getting-started/oculus-installation.md
+          text: Oculus Quest 설치
+        - url: getting-started/oculus-controls.md
+          text: Oculus Quest 설치
+    - title: 이벤트 만들기 및 호스팅
+      imageSrc: images/icon-events.png
+      links:
+        - url: tutorials/creating-an-event.md
+          text: 이벤트 만들기
+        - url: getting-started/roles.md
+          text: '이벤트, 세계 및 그룹에서의 역할'
+        - url: tutorials/main-events.md
+          text: 이벤트 요구 사항
+        - url: faqs/scaling-audiences.md
+          text: 대상 확장
+        - url: tutorials/multimedia-console.md
+          text: 멀티미디어 콘솔 사용
+        - url: tutorials/host-tools-overview.md
+          text: 호스트 도구 개요
+    - title: 세계 빌드
+      imageSrc: images/icon-worlds.png
+      links:
+        - url: world-building/world-editor-getting-started.md
+          text: 세계 편집기 살펴보기
+        - url: world-building/managing-worlds.md
+          text: 세계 관리
+        - url: world-building/adding-custom-spawn-points.md
+          text: 스폰 지점 추가
+        - url: world-building/adding-user-abilities.md
+          text: 사용자에게 능력 부여
+        - url: world-building/world-building-toolkit-getting-started.md
+          text: 세계 빌드 도구 키트
+        - url: world-building/using-mixed-reality-extensions.md
+          text: Mixed Reality Extensions 사용
+additionalContent:
+  sections:
+    - title: 추가 자료
+      summary: 도움이나 지원이 필요한가요?
+      items:
+        - title: 커뮤니티
+          links:
+            - text: 뉴스레터 구독
+              url: community/newsletter-subscriptions.md
+            - text: 커뮤니티 도우미 프로그램
+              url: community/community-helper-program.md
+            - text: 커뮤니티 도우미 가이드
+              url: community/community-helper-guide.md
+        - title: 문제 해결 및 지원
+          links:
+            - text: 오디오 문제
+              url: faqs/vr-headset-mic.md
+            - text: 계정 및 아바타
+              url: faqs/nametags.md
+            - text: AltspaceVR 애플리케이션
+              url: faqs/app-version.md
+            - text: 건강 및 안전
+              url: faqs/motion-sickness.md
+            - text: 이벤트
+              url: faqs/front-row-events.md
+        - title: 문의처
+          links:
+            - text: 지원 티켓 열기
+              url: community/open-support-ticket.md
+            - text: 기능 요청
+              url: community/feature-requests.md
+            - text: 악용 보고서 제출
+              url: community/filing-abuse-reports.md
