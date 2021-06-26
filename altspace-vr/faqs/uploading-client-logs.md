@@ -4,12 +4,12 @@ description: AltspaceVR와 관련 된 문제가 발생할 때 사용 가능한 �
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 클라이언트 로그
-ms.openlocfilehash: 82b45859bcfb9dec6f9b7690637ec0a9e497a8dd
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: e2fe1ea8b8070ca4c7d290269974610ce84f9cea
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213144"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923170"
 ---
 # <a name="how-do-i-upload-my-client-logs"></a>클라이언트 로그를 업로드 어떻게 할까요??
 
@@ -31,3 +31,9 @@ AltspaceVR에서 클라이언트 로그를 업로드 하려면 **설정 메뉴�
 **"마지막 로그 업로드"** 이 단추는 이전 세션에서 로그를 업로드 합니다.
 
 **"마지막 크래시 로그 업로드"** 이 단추를 클릭 하면 발생 한 최신 크래시에서 더 많은 로그 콘텐츠가 업로드 됩니다.
+
+## <a name="in-client-logs"></a>클라이언트 로그
+
+컴퓨터에서 로그 파일을 검색할 수도 있습니다. 이러한 로그를 검색 하는 방법에 대 한 지침은 [여기](https://docs.microsoft.com/windows/mixed-reality/altspace-vr/faqs/app-version#in-client-logs)에서 찾을 수 있습니다.
+
+이러한 파일을 찾았으면 제출을 클릭 하기 전에 [지원 티켓을 열고](https://help.altvr.com/hc/en-us/requests/new) 티켓 요청에 로그를 업로드 합니다.

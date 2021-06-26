@@ -4,12 +4,12 @@ description: AltspaceVR 앱, 설정 및 클라이언트 로그를 사용 하 여
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 앱 버전
-ms.openlocfilehash: 5d503d3b89cd213696dd53616c5c7e3013aeef01
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 6b710e1724b890fa7ba0eecfcd774ef63128d5b7
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213184"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923180"
 ---
 # <a name="finding-the-altspacevr-app-version"></a>AltspaceVR app 버전 찾기
 
@@ -42,8 +42,8 @@ AltspaceVR는 응용 프로그램 시작 중에 클라이언트 로그 파일의
 Windows에서 Windows 탐색기를 통해 클라이언트 로그 파일을 찾을 수 있습니다.
 
 ```
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player.log
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player-prev.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player-prev.log
 ```
 
 AltspaceVR를 시작할 때마다이 파일을 덮어씁니다. ' Player-prev '은 최신 세션을 나타내고 ' s s s. i n s. i n t '는 이전 세션을 나타냅니다.

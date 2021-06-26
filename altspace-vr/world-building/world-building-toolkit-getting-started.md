@@ -4,12 +4,12 @@ description: 전 세계의 도구 키트와 함께 Unity 장면 템플릿을 사
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 도구 키트
-ms.openlocfilehash: cf4660f46d93ca5c5f23de3f567ff04b12519617
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3b41f02aec1077a37b95a6826c105e1cd31974e3
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212627"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923080"
 ---
 # <a name="introducing-the-world-building-toolkit"></a>세계 개발 도구 키트 소개
 
@@ -24,8 +24,8 @@ ms.locfileid: "107212627"
 
 1. [공식 AltspaceVR Discord](https://discordapp.com/invite/altspacevr) 에 참여 하 고 #world을 방문 하세요. 친구는 친구 들이 혼자 빌드할 수 있습니다.
 2. 기본 사항에 대 한 [시작 하기 가이드](world-building-getting-started.md) 를 참조 하십시오.
-3. [Unity 허브를 설치](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) 하 고 **unity 2019.4.2 f1** 을 설치 합니다. 이 버전을 정확 하 게 일치 하지 않으면 업 로더가 작동 하지 않습니다. 무료 Unity 계정이 없으면 무료 Unity 계정이 필요 하 고, 재미를 위해이 작업을 수행 하므로 **개인** 을 선택 합니다. 설치 하는 동안 **Android 빌드** 옵션을 선택 하 고 자동 업데이트를 사용 하지 않도록 설정 해야 합니다.
-4. [최신 Unity 업 로더 다운로드](https://aka.ms/AsvrCommunityUploader)
+3. [Unity 허브를 설치](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) 하 고 **unity 2020.3.9** 를 설치 합니다. 이 버전을 정확 하 게 일치 하지 않으면 업 로더가 작동 하지 않습니다. 무료 Unity 계정이 없으면 무료 Unity 계정이 필요 하 고, 재미를 위해이 작업을 수행 하므로 **개인** 을 선택 합니다. 설치 하는 동안 **Android 빌드** 옵션을 선택 하 고 자동 업데이트를 사용 하지 않도록 설정 해야 합니다.
+4. [최신 Unity 업 로더 다운로드](upgrading-content-to-the-latest-unity.md#altspacevr-uploader-v090-upgrade-guide)
 5. 웹 사이트에서 [템플릿을 만듭니다](https://account.altvr.com/space_templates/new) . **템플릿을 헬로 월드** 으로 이름을로 합니다.
 6. [세계를 만들고](https://account.altvr.com/worlds/my) **헬로 월드** 이름을로 합니다. 템플릿으로 **헬로 월드 템플릿을** 선택 합니다.
 
@@ -35,7 +35,7 @@ ms.locfileid: "107212627"
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
 
-1. Unity 허브를 열고 새 Unity 2019.4.2 f1 프로젝트를 만듭니다.
+1. Unity 허브를 열고 새 Unity 2020.3.9 프로젝트를 만듭니다.
 2. 프로젝트를 연 상태에서 다운로드 한 파일을 두 번 클릭 하 여 업 로더를 가져옵니다 (Unity 패키지). 이제 **AltspaceVR** 라는 새 탭이 표시 됩니다. Altspace와 함께 사용 하려는 모든 Unity 프로젝트에 대 한 패키지를 가져와야 합니다.
 3. **메뉴 > AltspaceVR > 빌드 설정** 열기
 4. Altspace 계정 자격 증명으로 로그인 합니다.

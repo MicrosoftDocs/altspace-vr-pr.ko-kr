@@ -4,12 +4,12 @@ description: 웹 프로젝터를 사용 하 여 지정 된 브라우저에서 Al
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 웹 프로젝터, 스트림, 브라우저
-ms.openlocfilehash: 4f89757a572ae3d77a7b11f068760268a4089ddd
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2c5cb6ef917b7e799b8da3f1a769d77258866992
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212843"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923000"
 ---
 # <a name="using-the-web-projector-to-stream-a-browser"></a>웹 프로젝터를 사용 하 여 브라우저 스트림
 
@@ -20,6 +20,7 @@ AltspaceVR 웹 프로젝터는 데스크톱 PC에서 AltspaceVR로 직접 지정
 1. 브라우저를 스트리밍하려면 PC 또는 Mac을 사용 해야 합니다.
 2. 필요한 브라우저 확장은 현재 Edge 브라우저에서 지원 됩니다. 이 목록을 확장 하기 위해 노력 하 고 있습니다.
 3. Mac 컴퓨터에서 스트리밍할 수도 있지만 AltspaceVR Mac 클라이언트에서 아직 웹 프로젝터를 사용할 수 없습니다.
+4. 모든 것이 올바르게 설정 되어 있는 경우 (동일한 계정으로 브라우저 확장/AltspaceVR에 로그인 하 고 AltspaceVR에서 웹 프로젝터에 연결 됨/브로드캐스팅) 계속 녹색 화면이 표시 되는 경우 WebProjector는 TCP 포트 443이 열려 있고 UDP 포트 범위는 20000-20400이 필요 합니다.
 
 > [!NOTE]
 > 이 기능은 주로 사용자가 선택한 브라우저 탭을 스트리밍하는 데 사용 됩니다. 대신 데스크톱 응용 프로그램을 스트리밍하는 경우 웹 프로젝터가 모든 컴퓨터 오디오 (AltspaceVR 포함)를 스트리밍하 고이로 인해 echo/피드백이 발생할 수 있습니다. 이러한 상황이 발생 하지 않도록 하려면 AltspaceVR를 음소거 해야 합니다. 또는 PC에서 스트리밍하는 동안 별도의 장치를 사용 하 여 AltspaceVR를 실행할 수도 있습니다.
@@ -29,7 +30,7 @@ AltspaceVR 웹 프로젝터는 데스크톱 PC에서 AltspaceVR로 직접 지정
 1. 시작 하려면 브라우저 확장을 다운로드 하 여 설치 해야 합니다 .이 확장은 [여기](https://account.altvr.com/web_projector)에서 찾을 수 있습니다.
 2. 다음으로 [Edge 브라우저에서 확장을 테스트용으로 로드](https://docs.microsoft.com/microsoft-edge/extensions-chromium/getting-started/extension-sideloading).
     * 다운로드가 완료 되 면 브라우저의 **확장** 섹션으로 이동 합니다. ( **설정** 아래에 있음)
-    * .Zip 파일의 압축을 풉니다.
+    * .zip 파일의 압축을 풉니다.
     * **개발자 모드** 를 전환 하 고 **압축을 푼 로드** 선택
     * 방금 압축을 푼 폴더를 선택 합니다. 웹 프로젝터 확장입니다.
     * 확장이 추가 되 면 **세부 정보** 로 이동 하 여 설정을 설정할 수 있습니다.
@@ -41,7 +42,7 @@ AltspaceVR 웹 프로젝터는 데스크톱 PC에서 AltspaceVR로 직접 지정
 1. Edge 브라우저에서 탭을 열고 공유 하려는 미디어로 이동 합니다.
 2. 공유할 준비가 되도록 창을 설정 합니다. (참고: 전체 브라우저 창은 전 세계에 투영 됨)
 3. 새로 설치 된 확장 (브라우저에서 URL 표시줄 근처에 AltspaceVR 아이콘으로 표시 됨)을 찾습니다. AltspaceVR를 선택 합니다. 계정에 로그인 하 라는 메시지가 표시 됩니다. (* 참고: 웹 프로젝터를 설정 하는 데 사용 하는 것과 동일한 계정에 로그인 하는 것이 중요 합니다.)
-4. 로그인 하면 **스트리밍 시작** 옵션이 제공 된 확장 화면이 표시 됩니다. 이 폴더를 선택합니다.
+4. 로그인 하면 **스트리밍 시작** 옵션이 제공 된 확장 화면이 표시 됩니다. 선택합니다.
 
 ## <a name="projecting-your-browser-in-world"></a>전 세계 브라우저 프로젝션
 
