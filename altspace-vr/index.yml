@@ -15,7 +15,7 @@ highlightedContent:
   items:
     - title: 시작
       itemType: get-started
-      url: getting-started/system-requirements.md
+      url: journey.md
     - title: 콘텐츠 및 사람 검색
       itemType: overview
       url: getting-started/system-requirements.md
@@ -38,10 +38,8 @@ productDirectory:
     - title: 설정 및 설치
       imageSrc: images/icon-discovery.png
       links:
-        - url: getting-started/registration.md
-          text: 계정 등록
-        - url: getting-started/linking-microsoft-account.md
-          text: Microsoft 계정 연결
+        - url: getting-started/creating-and-linking-accounts.md
+          text: 계정 만들기 및 연결
         - url: getting-started/wmr-installation.md
           text: Windows Mixed Reality 설치
         - url: getting-started/wmr-controls.md
@@ -49,7 +47,7 @@ productDirectory:
         - url: getting-started/oculus-installation.md
           text: Oculus Quest 설치
         - url: getting-started/oculus-controls.md
-          text: Oculus Quest 설치
+          text: Oculus Quest 컨트롤
     - title: 이벤트 만들기 및 호스팅
       imageSrc: images/icon-events.png
       links:
