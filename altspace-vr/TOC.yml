@@ -11,12 +11,8 @@
       href: getting-started/wmr-installation.md
     - name: Oculus Quest/Quest 2 설치
       href: getting-started/oculus-installation.md
-    - name: 계정 만들기
-      items:
-        - name: 계정 등록
-          href: getting-started/registration.md
-        - name: Microsoft 계정 연결
-          href: getting-started/linking-microsoft-account.md
+    - name: 계정 만들기 및 연결
+      href: getting-started/creating-and-linking-accounts.md
     - name: 입력 컨트롤
       items:
         - name: Windows Mixed Reality 컨트롤
@@ -67,6 +63,8 @@
           href: tutorials/interactable-spawner.md
         - name: 텔레포터
           href: tutorials/teleporting.md
+        - name: 레코딩 및 라이브 스트리밍
+          href: tutorials/recording-and-live-streaming.md
     - name: 호스팅 도구
       items:
         - name: 개요
@@ -103,6 +101,10 @@
           items:
             - name: 세계 빌드 도구 키트(Unity 업로더)
               href: world-building/world-building-toolkit-getting-started.md
+            - name: 최신 Unity 버전으로 콘텐츠 업데이트
+              href: world-building/upgrading-content-to-the-latest-unity.md
+            - name: 모바일 성능 최적화 가이드
+              href: world-building/unity-mobile-performance-guide.md
             - name: Mixed Reality Extensions 사용
               href: world-building/using-mixed-reality-extensions.md
             - name: 키트 업로드
@@ -143,6 +145,8 @@
               href: faqs/nametags.md
             - name: 내 계정 정보를 어떻게 변경하나요?
               href: faqs/updating-email-address.md
+            - name: 계정 연결을 해제하고 다시 연결하려면 어떻게 해야 하나요?
+              href: faqs/unlinking-and-relinking-accounts.md
         - name: AltspaceVR 애플리케이션
           items:
             - name: AltspaceVR 앱 버전은 어떻게 찾을 수 있나요?
