@@ -4,12 +4,12 @@ description: '다양 한 Unity 속성을 사용 하 여 모바일 장치 (예: O
 ms.date: 04/20/2021
 ms.topic: article
 keywords: 세계 편집기, 성능, oculus, 퀘스트, unity, 질감, lightmaps, 통계, 프로파일러, 그리기 호출, altspacevr, 업 로더
-ms.openlocfilehash: 9d6afba6fff85adfaa2ba290916f25c84c5377cd
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: d9bb02cf6c51a604b858caf36ebbc5548e4fe267
+ms.sourcegitcommit: ab0ca34d20bbbcee3ce3415b17a681f8678565b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961260"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "113634294"
 ---
 # <a name="altspacevr-mobile-performance-guide"></a>AltspaceVR 모바일 성능 가이드
 
@@ -23,11 +23,11 @@ ms.locfileid: "112961260"
 * **모바일 품질 셰이더** (즉, ' 모바일/확산 ' 등)를 사용 하 고, 많은 작업을 수행 하 고 프로브에서 그리기 호출을 추가 하는 Unity 표준 셰이더/.Pbr/리플렉션 프로브/라이트 프로브를 피합니다.
 * 화면에서 **10만 미만의 삼각형**
 * **폐색 고르기** 를 사용 하면 폐색 고르기를 사용 하도록 설정 하는 데 필요한 사전 투자 비용이 발생 하지만 진단 패널을 사용 하 여 altspace의 프레임 속도에 미치는 영향을 측정할 수 있습니다.
-* 장면의 모든 **질감** 에 대해 **' Android에 대해 재정의 '** 를 사용 하 고 **RGB (a) 압축 된 6x6 블록 형식** 으로 설정 합니다.  Android 빌드 설정 압축을 기본 (파일/빌드 설정/a s s/질감 압축: ' 재정의 안 함 '에 있음)으로 그대로 둡니다. 그러면 Lightmaps가 o c 압축을 얻지 못합니다.  위의 작업을 수행 하 고 개체 간에 자료를 공유 하 여 Android의 unity 패키지를 **10-20** x x x x x x x x로 유지 하려고 합니다.
+* 장면의 모든 **질감** 에 대해 **' Android에 대해 재정의 '** 를 사용 하 고 **RGB (a) 압축 된 6x6 블록 형식** 으로 설정 합니다.  Android 빌드 설정 압축은 기본적으로 그대로 둡니다 (파일/빌드 설정/Android/텍스처 압축: ' 재정의 안 함 ') .이는 Lightmaps가 o c 압축을 얻지 않도록 합니다.  위의 작업을 수행 하 고 개체 간에 자료를 공유 하 여 Android의 unity 패키지를 **10-20** x x x x x x x x로 유지 하려고 합니다.
 
 일반적인 목표는 장치에서 허용 가능한 프레임을 적중 하는 것입니다. 즉, Oculus Quest 1과 2에서는 장면이 채워질 때 유리한 모든 지점에서 72 FPS로 실행 됩니다. 단, 60-72 FPS의 범위는 더 현실적인 대상입니다.
 
-AltspaceVR 내에서 사용 중인 장치 ( **설정/지원/진단 패널/** a s s/FPS 아래에 있음)에서 프레임 속도를 측정할 수 있습니다.
+AltspaceVR 내에서 사용 중인 장치 중에서 프레임 속도를 측정할 수 있습니다 ( **설정/stverererers/FPS** 의 AltspaceVR 앱에 있음).
 
 사용 가능한 표준 Unity 도구의 런다운을 통해 장면을 보다 잘 최적화할 수 있습니다.
 
@@ -81,6 +81,8 @@ AltspaceVR 내에서 사용 중인 장치 ( **설정/지원/진단 패널/** a s
 또한 다음과 같은 기본 설정을 사용 하 여 화면 도어 효과 환경에 사용 되었습니다.
 
 ![Unity의 조명 창](images/world-building-lightmaps.png)
+
+참고: 이러한 설정을 사용 하는 경우 Lightmapper를 ' GPU Lightmapper '로 설정 하 고 Lightmap 크기를 ' 2048 '로 설정 하 여 훨씬 더 빠르게 미리 볼 수 있습니다. 그런 다음 최종 굽기에 대 한 CPU 및 4k로 백업할 수 있습니다.
 
 ## <a name="texture-compressionfile-size"></a>**질감 압축/파일 크기**
 
