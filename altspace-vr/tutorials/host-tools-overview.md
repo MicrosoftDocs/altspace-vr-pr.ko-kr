@@ -4,12 +4,12 @@ description: FrontRow 이벤트에 대 한 호스트 도구를 사용 하는 방
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 호스트 도구, 음소거, 메시지, 스테이지 차단, 청중 참여
-ms.openlocfilehash: d5f4714e532b55e86e1ee45622097338d4651daa
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: bd5aa3da37173ecf6975e3ab82096d7cef5f02d0964ddd1fc28c078a31d0c520
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212870"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126389"
 ---
 # <a name="host-tools-overview"></a>호스트 도구 개요
 

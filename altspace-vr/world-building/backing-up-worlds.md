@@ -4,12 +4,12 @@ description: AltspaceVR 세계의 백업 스냅숏을 만들고, 관리 하 고,
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 저장
-ms.openlocfilehash: fdef692c737bf2f92db315e04556831d60c2f377
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2f4f232fd843b612563b2d7425de2b5d17720c539cc02a1493bc4b118de4f117
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212659"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125475"
 ---
 # <a name="backing-up-your-worlds"></a>세계 백업
 
@@ -18,20 +18,20 @@ ms.locfileid: "107212659"
 ## <a name="whats-included-in-a-backup"></a>백업에는 무엇이 포함 되나요?
 
 현재 백업에는 세계 편집기를 사용 하 여 생성할 수 있는 대부분의 항목이 포함 되어 있습니다.
-* 아티팩트 (키트 개체)
+* Artifacts (키트 개체)
 * 레이블
-* Teleporters
+* 텔레포터
 * 생성 점수
 * 사진
 * MRE SDK 앱
-* 네이티브 앱 (예: 현실을 Holograms)
+* 네이티브 앱 (예: 현실에 대 한 홀로그램스)
 
 다음은 포함 되지 않습니다.
 
 * 레이아웃 재정의
 * Skyboxes 및 앰비언트 소리
 * 템플릿
-* 지침
+* Instructions
 * 세계 역할 및 컨텍스트 역할
 
 ## <a name="managing-backups"></a>백업 관리

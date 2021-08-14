@@ -4,18 +4,18 @@ description: 큐레이팅된 검사점 여정을 통해 AltspaceVR 플랫폼에�
 ms.date: 03/29/2021
 ms.topic: article
 keywords: altspace, 가상 현실, 이벤트, 세계 빌드, 자습서
-ms.openlocfilehash: cf5217e54e17b37f00e921468d82585d8bb580d7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 7caf7f30980effa405bd68baf15bbfc43f4000d0888461452f36a1445a0b8214
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923060"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126454"
 ---
 # <a name="exploring-altspacevr"></a>AltspaceVR 살펴보기
 
 ![AltspaceVR 배너 이미지](images/altspace-vr-banner.png)
 
-AltspaceVR은 가상 현실의 주요 소셜 플랫폼입니다. AltspaceVR은 대규모 이벤트부터 대규모로 대규모로 진행되는 콘서트부터 전문 모임에 이르기까지 다양한 이벤트에 집중하며, AltspaceVR은 인간 연결의 크기를 조정하는 데 도움이 되는 기술을 사용합니다.
+AltspaceVR은 가상 현실의 주요 소셜 플랫폼입니다. AltspaceVR은 규모가 큰 콘서트부터 전문 모임까지 다양한 규모의 이벤트에 집중하여 인간 연결의 크기를 조정하는 데 도움이 되는 기술을 사용합니다.
 
 숙련된 AltspaceVR 초보자이든 새 사용자이든 관계없이 계산할 수 있는 견고한 리소스가 있어야 합니다. 가상 이벤트를 전 세계로 가져오는 방법을 안내하기 위해 다음 검사점이 컴파일되었습니다. 이를 순차적으로 다룰 수 있으며, 원하는 내용을 알고 있는 경우 원하는 순서로 이동할 수 있습니다. 어느 방법을 사용하든 방향이 필요할 때마다 이 여정을 다시 방문하려고 합니다.
 
@@ -29,7 +29,7 @@ AltspaceVR은 가상 현실의 주요 소셜 플랫폼입니다. AltspaceVR은 �
 | [Windows Mixed Reality](getting-started/wmr-installation.md) 또는 [Oculus Quest](getting-started/oculus-installation.md) 설치| 최신 Windows Mixed Reality 또는 Oculus Quest 앱 다운로드 및 설치 |
 | [AltspaceVR 계정 만들기 및 연결](getting-started/creating-and-linking-accounts.md) | AltspaceVR 앱 내에서 계정을 만들고 등록하고 Microsoft 계정에 연결합니다.|
 
-## <a name="2-getting-comfortable"></a>2. 편안하게 만드기
+## <a name="2-getting-comfortable"></a>2. 익숙해지기
 
 AltspaceVR 이벤트는 가상 세계에서 발생하므로 가상 공간을 편리하게 탐색해야 합니다. 이 섹션이 끝나면 자신 있게 이동하고, 아바타를 제어하고, 바로 가기 키를 사용할 수 있습니다.
 
@@ -45,21 +45,21 @@ AltspaceVR 이벤트는 가상 세계에서 발생하므로 가상 공간을 편
 
 |  검사점  |  결과  |
 | --- | --- |
-| [제목 화면 탐색](community/exploring-title-screen.md) | 제목 화면에서 AltspaceVR 플랫폼으로 이동하여 로그인하거나, 이벤트를 입력하거나, 아바타를 사용자 지정합니다. |
-| [소셜 기능 & 네임태그](faqs/nametags.md) | AltspaceVR 내에서 네임태그 및 소셜 기능이 작동하는 방식 알아보기 |
+| [제목 화면 탐색](community/exploring-title-screen.md) | 제목 화면에서 AltspaceVR 플랫폼을 탐색하여 로그인하거나, 이벤트를 입력하거나, 아바타를 사용자 지정합니다. |
+| [소셜 기능 & 네임태그](faqs/nametags.md) | AltspaceVR 내에서 네임태그 및 소셜 기능의 작동 방식 알아보기 |
 
 ## <a name="4-creating--hosting-events"></a>4. & 호스팅 이벤트 만들기
 
-지금까지 물류를 살펴보었으며 이제 이벤트를 만들고 호스트하는 방법을 알아보겠습니다. AltspaceVR에는 이 프로세스에 대한 다양한 기능이 있지만 기본 사항, 고급 옵션 및 호스팅 관련 도구로 구분했습니다. 이러한 작업을 순차적으로 진행하든 또는 점프하든 관계없이 이 섹션의 끝부분에서 자신 있게 고유한 이벤트를 만들 수 있습니다.
+지금까지 물류에 대해 살펴보셨으므로 이제 이벤트를 만들고 호스트하는 방법을 알아보겠습니다. AltspaceVR에는 이 프로세스에 대한 다양한 기능이 있지만 기본 사항, 고급 옵션 및 호스팅 관련 도구로 구분했습니다. 이러한 작업을 순차적으로 진행하든 또는 점프하든 관계없이 이 섹션의 끝부분에서 자신 있게 고유한 이벤트를 만들 수 있습니다.
 
 **기본 이벤트 설정**
 
 |  검사점  |  결과  |
 | --- | --- |
 | [역할 이해](getting-started/roles.md) | AltspaceVR 이벤트에 사용할 수 있는 다양한 역할에 대해 알아보기 |
-| [이벤트 설정](tutorials/creating-an-event.md) | 용어, 브랜딩, 멀티미디어 콘솔 및 더 많은 이벤트 생성 기능에 익숙해지세요. |
+| [이벤트 설정](tutorials/creating-an-event.md) | 용어, 브랜딩, 멀티미디어 콘솔 및 더 많은 이벤트 생성 기능에 익숙해지도록 합니다. |
 | [그룹 기능 탐색](tutorials/group-features.md) | 가상 이벤트 게스트 목록을 수동으로 추가하고 구성하는 방법 이해 |
-| [대상 그룹 확장](faqs/scaling-audiences.md) | 여러 인스턴스에서 전체 이벤트를 미러하고 대상 그룹 크기 늘리기 |
+| [대상 그룹 확장](faqs/scaling-audiences.md) | 여러 인스턴스에서 전체 이벤트를 미러하고 대상 그룹 크기를 늘입니다. |
 | [멀티미디어 콘솔](tutorials/multimedia-console.md) 및 [웹 프로젝터와](tutorials/web-projector-streaming.md) 미디어 공유 | 데스크톱 PC에서 AltspaceVR로 직접 지정된 브라우저 탭을 스트리밍하는 방법을 알아봅니다. |
 
 **고급 이벤트 설정**
@@ -71,7 +71,7 @@ AltspaceVR 이벤트는 가상 세계에서 발생하므로 가상 공간을 편
 | [원격 통신기를 사용하여 중단실 만들기](tutorials/teleporting.md) | 사용자가 한 이벤트와 세계에서 다른 이벤트와 세계로 탐색하고 이동하도록 허용 |
 | [3D 모델 가져오기(glTF)](world-building/importing-models.md) | .glb 파일을 업로드하여 세계 편집기에서 모델을 만드는 방법을 알아봅니다. |
 | [세계 성능 향상](world-building/improving-performance.md) | 성능에 대한 진단, 성능 도구 및 문제 해결 팁 얻기 |
-| [사용자 지정 skyboxes 가져오기](world-building/uploading-custom-skyboxes.md) | 사용자 고유의 사용자 지정 Skybox를 만들고 가져와 가상 공간을 더 몰입형으로 만듭니다. |
+| [사용자 지정 skyboxes 가져오기](world-building/uploading-custom-skyboxes.md) | 사용자 고유의 사용자 지정 Skybox를 만들고 가져와서 가상 공간을 더 몰입형으로 만듭니다. |
 
 **호스팅 도구**
 
@@ -87,9 +87,9 @@ AltspaceVR 이벤트는 가상 세계에서 발생하므로 가상 공간을 편
 
 [!INCLUDE[](includes/troubleshooting.md)]
 
-## <a name="6-community--resources"></a>6. 커뮤니티 & 리소스
+## <a name="6-community--resources"></a>6. 리소스 Community &
 
-AltspaceVR은 커뮤니티이며, 참여해 주시기 바랍니다. 커뮤니티 표준, 서비스 약관, 개인 정보 취급 방침을 검토하고 최신 뉴스 모두에 대한 뉴스레터를 구독하세요.
+AltspaceVR은 커뮤니티이며, 참여해 주시기 바랍니다. 커뮤니티 표준, 서비스 약관, 개인 정보 취급 방침을 검토하고 뉴스레터를 구독하여 최신 뉴스를 모두 받아보십시오.
 
 * [커뮤니티 표준](community/community-standards.md)
 * [AltspaceVR 서비스 약관](community/terms-of-service.md)

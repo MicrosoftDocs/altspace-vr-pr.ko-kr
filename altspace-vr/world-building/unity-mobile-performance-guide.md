@@ -4,12 +4,12 @@ description: '다양 한 Unity 속성을 사용 하 여 모바일 장치 (예: O
 ms.date: 04/20/2021
 ms.topic: article
 keywords: 세계 편집기, 성능, oculus, 퀘스트, unity, 질감, lightmaps, 통계, 프로파일러, 그리기 호출, altspacevr, 업 로더
-ms.openlocfilehash: d9bb02cf6c51a604b858caf36ebbc5548e4fe267
-ms.sourcegitcommit: ab0ca34d20bbbcee3ce3415b17a681f8678565b7
+ms.openlocfilehash: d5689e245c10ccb61abdd0aaa2327132d4374bb7e53a2eaec316d991b38378fb
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "113634294"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126977"
 ---
 # <a name="altspacevr-mobile-performance-guide"></a>AltspaceVR 모바일 성능 가이드
 
@@ -44,7 +44,7 @@ AltspaceVR 내에서 사용 중인 장치 중에서 프레임 속도를 측정�
 
 * **프레임 디버거** (창/분석/프레임 디버거 아래에 있음).  Steroids의 Stats 패널을 사용 하면 최종 이미지를 만들기 위해 GPU에서 그리는 작업을 확인할 수 있습니다 .이 패널에는 첫 번째에서 마지막으로의 drawcalls 목록이 표시 됩니다.  그리기 호출이 이전 그리기 호출로 일괄 처리 되지 않는 이유 (즉, '이 개체는 다른 자료를 사용 하는 개체 또는 '이 개체는 다른 Lightmap '를 사용 하는 경우)를 제공 하며, 장면에서 발생 하는 상황을 이해 하 고 특정 시각적 항목을 계산 하는 데 큰 도움이 되는 방법 및 이유를 제공 합니다.
 
-* **프로파일러** 는 게임을 실행 하는 동안 언제 든 지 어떤 컴퓨터에서 사용 되 고 있는지를 보여 줍니다. 성능을 bottlenecking 결정 하는 데 도움이 됩니다.  예를 들어 장면에서 CPU 사용량이 많은 경우 그리기 호출이 너무 많거나, GPU 사용량이 많은 경우 여러 투명 화면을 포함 하 여 발생할 수 있는 너무 많은 그리기 (즉, 단일 픽셀이 렌더링 되어 최종 이미지를 생성 하는 횟수)가 너무 많을 수 있습니다. , 또는 개체가 뷰에서 추출 되지 않습니다.
+* **프로파일러** 는 게임을 실행 하는 동안 언제 든 지 어떤 컴퓨터에서 사용 되 고 있는지를 보여 줍니다. 성능을 bottlenecking 결정 하는 데 도움이 됩니다.  예를 들어 장면에서 CPU 사용량이 많은 경우 그리기 호출이 너무 많거나, GPU 사용량이 많은 경우 여러 투명 한 표면이 있는 경우 발생할 수 있는 많은 그리기 작업이 너무 많은 경우 (즉, 최종 이미지를 생성 하는 단일 픽셀이 렌더링 되는 횟수) 너무 많을 수 있습니다.  또는 개체가 뷰에서 추출 되지 않습니다.
 
 ## <a name="draw-calls-shadersmaterialsobjects"></a>**그리기 호출 (셰이더/재질/개체)**
 

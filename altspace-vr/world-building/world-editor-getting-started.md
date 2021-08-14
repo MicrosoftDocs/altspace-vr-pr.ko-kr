@@ -4,12 +4,12 @@ description: AltspaceVR 세계 편집기를 사용 하 여 개체를 생성, 조
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 세계 편집기
-ms.openlocfilehash: 6fa55de4e95c7cfee4cc771f1fe4e7ff8c67350b
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: da0bfc3f9df9ba17388dc68ce5776c6ae9433274d77511efd18b70cfc7eeffc6
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213448"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125940"
 ---
 # <a name="getting-started-with-the-world-editor"></a>세계 편집기 시작
 
@@ -49,7 +49,7 @@ ms.locfileid: "107213448"
 
 ![공간을 숨기 거 나 표시 하려면 환경 설정/해제 단추](images/world-editor-img-08.png)
 
-**설정/해제** 단추를 사용 하 여 무게를 서 수 있습니다. Skies을 통해 대화 충성도 수 있을 때 스 캐 폴딩이 필요한 사용자는 누구 인가요? 이 기능을 사용 하 여 "생성 사이트"를 다음 수준으로 이동 합니다. 비행은 간단 합니다. 신속 하 게 이동할 방향을 확인 하 고 핫 키 (또는 컨트롤러에서 엄지 스틱)를 사용 하 여 가져옵니다. 
+**설정/해제** 단추를 사용 하 여 무게를 서 수 있습니다. skies을 통해 대화 충성도 수 있는 경우에는 Who 스 캐 폴딩이 필요 한가요? 이 기능을 사용 하 여 "생성 사이트"를 다음 수준으로 이동 합니다. 비행은 간단 합니다. 신속 하 게 이동할 방향을 확인 하 고 핫 키 (또는 컨트롤러에서 엄지 스틱)를 사용 하 여 가져옵니다. 
 
 사용자 **환경 클리핑** 단추를 사용 하 여 개체를 쉽게 통과할 수 있으므로 전 세계의 항목으로 이동 하지 않고도 3d 공간에서 행동 수 있습니다. 항목 및 벽을 통해 클리핑할 수 있으면 전체 이동의 자유를 제공 하 여 완벽 하 게 자세히 파악할 수 있습니다.  
 

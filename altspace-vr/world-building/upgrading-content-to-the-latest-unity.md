@@ -4,12 +4,12 @@ description: 최신 버전의 Unity로 콘텐츠를 업데이트 하는 방법�
 ms.date: 06/4/2021
 ms.topic: article
 keywords: 키트, 세계, unity, 업데이트, 셰이더, 업 로더, 문제 해결
-ms.openlocfilehash: f8a805c4b3350f2c97c43d3d48c35733ec7e9710
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a10e64b4dc19e256dcae9d61620de0140db60ccc0bf2a10dc864313f139bbd10
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961255"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126764"
 ---
 # <a name="updating-content-to-the-latest-unity-version"></a>최신 Unity 버전으로 콘텐츠 업데이트
 
@@ -28,7 +28,7 @@ ms.locfileid: "112961255"
 
 AltspaceVR의 다음 미리 보기 버전을 사용 하 여 VR에서 새로 업데이트 된 콘텐츠를 테스트할 수 있습니다. 미리 보기 버전은 테스트 목적 으로만 사용 되며 플랫폼의 일반적인 사용에는 사용 하지 않아야 합니다.
 
-* [Windows Mixed Reality AltspaceVR SPI 미리 보기](https://aka.ms/AvrSpiMr)
+* [Windows Mixed Reality에 대 한 AltspaceVR SPI 미리 보기](https://aka.ms/AvrSpiMr)
 * [SteamVR에 대 한 AltspaceVR SPI 미리 보기](https://aka.ms/AvrSpiSteam)
 * [AltspaceVR SPI Preview for Oculus Rift](https://aka.ms/AvrSpiRift)
 
@@ -37,7 +37,7 @@ AltspaceVR의 다음 미리 보기 버전을 사용 하 여 VR에서 새로 업�
 
 ## <a name="storecompatibilitycheck"></a>저장소 호환성 검사
 
-Unity 2020.3.9 업그레이드는 헤드셋 및 스토어 빌드 호환성에도 영향을 줍니다. 이제 헤드셋과 호환 되는 스토어에서 AltspaceVR를 다운로드 하는 것이 필요 합니다. 예를 들어 WinMR 또는 Oculus 헤드셋의 경우 Windows 스토어 또는 Oculus 스토어에서 각각 AltspaceVR를 다운로드 합니다. Windows Mixed Reality 사용자는 Windows 스토어에서 AltspaceVR를 다운로드 하 고, 스트림의 사용자를 SteamVR 하 고, Oculus 매장에서 사용자를 다운로드 해야 합니다.
+Unity 2020.3.9 업그레이드는 헤드셋 및 스토어 빌드 호환성에도 영향을 줍니다. 이제 헤드셋과 호환 되는 스토어에서 AltspaceVR를 다운로드 하는 것이 필요 합니다. 예를 들어 winmr 또는 oculus 헤드셋의 경우 Windows 매장 또는 oculus 저장소에서 각각 AltspaceVR를 다운로드 합니다. Windows Mixed Reality 사용자는 Windows 스토어에서 AltspaceVR를 다운로드 하 고, 스트림의 사용자를 SteamVR 하 고, oculus 매장에서 사용자를 다운로드 해야 합니다.
 
 ## <a name="altspacevr-uploader-v090-upgrade-guide"></a>AltspaceVR 업 로더 v 0.9.0 업그레이드 가이드 
 
@@ -69,7 +69,7 @@ Unity 2020.3.9 업그레이드는 헤드셋 및 스토어 빌드 호환성에도
 
 6. **업 로더를 설치** 합니다. MR 기능 도구를 사용 하 여 Unity 프로젝트를 선택 하 고 AltspaceVR 제목 아래에 AltspaceVR 업 로더 기능을 추가 합니다. 도구의 지시를 따릅니다.
 
-MacOS에서 [레지스트리에서](https://dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging?_a=package&feed=Unity-packages&package=com.microsoft.altspacevr_uploader&protocolType=Npm&version=0.9.0&view=versions)최신 버전을 수동으로 다운로드 하 고 Unity 편집기의 패키지 관리자 (Windows > 패키지 관리자 > + > tarball에서 패키지 추가) 내에서 설치 합니다.
+macos에서 [레지스트리에서](https://dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging?_a=package&feed=Unity-packages&package=com.microsoft.altspacevr_uploader&protocolType=Npm&version=0.9.0&view=versions)최신 버전을 수동으로 다운로드 하 고 Unity 편집기의 패키지 관리자 (Windows > 패키지 관리자 > + > tarball에서 패키지 추가) 내에서 설치 합니다.
 
 패키지가 가져오기를 완료 하면 친숙 한 업 로더 창이 AltspaceVR 메뉴 항목에서 사용 가능 해야 합니다.
 
@@ -77,12 +77,12 @@ MacOS에서 [레지스트리에서](https://dev.azure.com/aipmr/MixedReality-Uni
 
 1. WinMR 헤드셋에 컨트롤러 또는 입력 문제가 있는 경우 현재 상태 센서를 제대로 활용 하려면 헤드에 배치 해야 합니다. 이것은 알려진 문제 이며 Microsoft에서 문제를 해결 하기 위해 적극적으로 노력 하 고 있습니다.
 
-2. 헤드셋 및 스토어 빌드 호환성을 확인 합니다. 예를 들어 WinMR 헤드셋을 사용 하는 경우 Windows 스토어를 통해 AltspaceVR 빌드를 가져왔는지 확인 합니다.
+2. 헤드셋 및 스토어 빌드 호환성을 확인 합니다. 예를 들어 winmr 헤드셋을 사용 하는 경우 Windows 저장소를 통해 AltspaceVR 빌드를 가져왔는지 확인 합니다.
 
 3. 테스트 하는 동안 콘텐츠가 VR 모드에서 한 눈에만 표시 되는 경우 사용 하는 사용자 지정 셰이더가 SPI 렌더링을 지원 하지 않을 수 있습니다. 다른 셰이더를 선택 하거나 [Unity의 SPI 업그레이드 가이드](https://docs.unity3d.com/Manual/SinglePassInstancing.html) 에 따라 셰이더를 수동으로 편집 하 고 지원을 추가 해야 합니다.
 
 4. WinMR의 경우 AltspaceVR에서 VR 모드에 액세스 하려면 먼저 다음을 수행 해야 합니다. 
-    1. Microsoft Store에서 Windows Mixed Reality 용 OpenXR를 다운로드 하 여 설치 합니다.
+    1. Microsoft Store에서 Windows Mixed Reality에 대 한 OpenXR를 다운로드 하 여 설치 합니다.
         1. 혼합 현실 포털 앱을 엽니다.
         2. 앱의 왼쪽 아래에 있는 "자세히 보기"를 선택 합니다.
-        3. 표시 되는 메뉴에서 OpenXR 설정을 선택 합니다. 이렇게 하면 Windows 스토어가 런타임을 설치할 수 있는 위치에서 시작 됩니다. 이 메뉴 항목이 표시 되지 않으면 OpenXR가 PC에 이미 설치 되어 있을 수 있습니다.
+        3. 표시 되는 메뉴에서 OpenXR 설정을 선택 합니다. 이렇게 하면 Windows 저장소가 런타임을 설치할 수 있는 위치에서 시작 됩니다. 이 메뉴 항목이 표시 되지 않으면 OpenXR가 PC에 이미 설치 되어 있을 수 있습니다.

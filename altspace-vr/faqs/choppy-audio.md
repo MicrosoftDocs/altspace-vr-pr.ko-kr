@@ -4,12 +4,12 @@ description: AltspaceVR 이벤트에서 고르지 않은 오디오를 진단 하
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 자주 묻는 질문(FAQ)
-ms.openlocfilehash: 13cba16d10cd2b946435f1fb23d794df05cca693
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 387fa7d2c73388118da3ce442baae1fe4f13881deef3599e04163ad2abf321f9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212739"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128213"
 ---
 # <a name="my-audio-is-choppy"></a>내 오디오가 고르지 않음
 

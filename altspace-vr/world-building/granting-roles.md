@@ -3,13 +3,13 @@ title: 전역 역할 부여
 description: 역할 및 기능 시스템에 대해 알아보고 AltspaceVR 환경에서 사용자 역할을 제공 하는 방법에 대 한 단계별 지침을 확인 하세요.
 ms.date: 04/14/2021
 ms.topic: article
-keywords: 역할
-ms.openlocfilehash: 3a1d0f138b29fe545f52d851ff00062f156a860e
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+keywords: roles
+ms.openlocfilehash: f299f637d77c989be5504532279fb42451367b4ac53095d00627f67402dd8552
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923198"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127126"
 ---
 # <a name="granting-world-roles"></a>전역 역할 부여
 

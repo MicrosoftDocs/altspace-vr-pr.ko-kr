@@ -4,12 +4,12 @@ description: AltspaceVR의 teleporter를 사용 하 여 한 이벤트에서 다�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: teleporter
-ms.openlocfilehash: afc199e958824bb5f0a9ff6d74865cbcd3f16868
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 79c5b09e1643a70939ba1e967a948ac6c80c2b615bce9eef598d0e07b7722ea3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213417"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126191"
 ---
 # <a name="using-the-teleporter"></a>Teleporter 사용
 

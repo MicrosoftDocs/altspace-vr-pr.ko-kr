@@ -4,18 +4,18 @@ description: AltspaceVR에서 사용자 지정 키트를 설정, 생성 및 업�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 키트, 업로드, 문제 해결
-ms.openlocfilehash: e5a1b9c2ef5339db0cb821cb6f7d21a930416451
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 9a90bff2360d854dc398a35501f07cddcbce5c6c66ef8230f2e412a022f8aed0
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213505"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125529"
 ---
 # <a name="uploading-custom-kits"></a>사용자 지정 키트 업로드
 
-세계 편집기에는 전 세계에서 생성할 수 있는 아티팩트가 포함 된 키트가 있습니다. 예를 들어 [Campfire Kit](https://account.altvr.com/kits/993516233267609824) 에는 다양 한 유형의 트리가 있습니다. 각 트리 유형은 아티팩트입니다. 사용자 고유의 키트를 만들려면 Unity AssetBundles을 만들고 각 아티팩트에 대 한 Unity Prefab 포함 된 .zip 파일을 업로드 하 고 웹 사이트에 각 아티팩트를 등록 해야 합니다. 다행히 커뮤니티 중심 Unity 업 로더는 대부분의 워크플로를 자동화 합니다. 업로드 되 면 사용자의 사용자 키트에서 개체를 생성할 수 있으며, 다른 사용자가 자동으로 볼 수 있습니다. 나중에 친구 또는 전체 커뮤니티를 포함 하 여 키트를 공유할 수 있습니다.
+세계 편집기에는 전 세계에 생성할 수 있는 Artifacts 포함 하는 키트가 있습니다. 예를 들어 [Campfire Kit](https://account.altvr.com/kits/993516233267609824) 에는 다양 한 유형의 트리가 있습니다. 각 트리 유형은 아티팩트입니다. 사용자 고유의 키트를 만들려면 Unity AssetBundles을 만들고 각 아티팩트에 대 한 Unity Prefab 포함 된 .zip 파일을 업로드 하 고 웹 사이트에 각 아티팩트를 등록 해야 합니다. 다행히 커뮤니티 중심 Unity 업 로더는 대부분의 워크플로를 자동화 합니다. 업로드 되 면 사용자의 사용자 키트에서 개체를 생성할 수 있으며, 다른 사용자가 자동으로 볼 수 있습니다. 나중에, 친구와 키트를 공유 하거나 전체 Community를 추천 하 여 공유할 수 있습니다.
 
-## <a name="prerequisites"></a>필수 구성 요소
+## <a name="prerequisites"></a>필수 조건
 
 1. [Unity 허브 및 Unity 설치](world-building-toolkit-getting-started.md)
 2. 최신 버전의 [Unity 업 로더](https://altvr.com/download-latest-unity-uploader/) 다운로드
@@ -26,7 +26,7 @@ ms.locfileid: "107213505"
 
 1. [> 키트](https://account.altvr.com/kits) 의 웹 사이트에서 키트 만들기
 2. 브라우저의 주소 표시줄에 있는 키트 ID를 클립보드로 복사 합니다 .이 단계는 업 로더 버전 0.9 이상에서 더 쉽게 수행할 수 있습니다.
-3. 새 Unity 프로젝트 만들기
+3. 새 Unity Project 만들기
 4. 패키지를 두 번 클릭 하 여 Unity 업 로더 가져오기
 
 ![가져온 unity 업 로더 패키지](images/custom-kits-img-01.png)
@@ -43,7 +43,7 @@ ms.locfileid: "107213505"
 
 ![키트 폴더 이름을 사용 하는 Unity의 AltspaceVR 인터페이스](images/custom-kits-img-03.png)
 
-2. 각 아티팩트 또는 아티팩트 집합:
+2. 각 아티팩트 또는 Artifacts 집합에 대해 다음을 수행 합니다.
 * 원본 Prefab를 계층 탭으로 끌어 옵니다.
 * 집합에 포함 하려는 항목을 선택 합니다. 예를 들어
 * **배럴** 을 사용 하 여 **키트 자산 이름** 업데이트
@@ -83,9 +83,9 @@ ms.locfileid: "107213505"
 **파티클 시스템 및 애니메이션은 어떻습니까?**
 이러한 경우에는 메시를 렌더링 하 고 충돌을 비활성화 하 여 원본에 배치 된 1x1x1 큐브 아래에 있습니다. 파티클 시스템은 루프를 사용 하도록 설정 해야 하며, **크기 조정을** **계층** 으로 설정 하 여 altspace에서 적절히 크기를 조정 해야 합니다. 모든 애니메이션에 대 한 prefabs를 생성 한 후에는 각 애니메이션에 대 한 **충돌** 개체에서 충돌을 비활성화 합니다.
 
-**아티팩트가 어두움** 모델의 재질 셰이더를 **모바일/꼭 짓 점 전용 방향 광원** 으로 설정 했습니까?
+**Artifacts 어두운** 모델의 재질 셰이더를 **모바일/꼭 짓 점 전용 방향 광원** 으로 설정 했습니까?
 
 **아티팩트가 올바른 방법이 아닙니다** . **모델** 및 **collider** 를 회전 하 고 Prefab를 업데이트 합니다. 부모를 회전 해도 아무것도 수행 되지 않습니다. 무시 됩니다. **회전 재정의** 필드를 사용 하 여이 작업을 쉽게 수행할 수 있습니다.
 
-**이러한 아티팩트를 SDK의 **Createfromlibrary** 함수와 함께 사용할 수 있나요?**
+**이러한 Artifacts SDK의 **createfromlibrary** 함수와 함께 사용할 수 있나요?**
 예

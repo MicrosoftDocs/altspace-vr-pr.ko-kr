@@ -4,12 +4,12 @@ description: FrontRow 기능으로 AltspaceVR 대상 그룹을 사용 하도록 
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 크기 조정, front row
-ms.openlocfilehash: 30632564da2465b3cd54a7c080e73ad835a3a514
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3b6a518a463fc373439f411d4ae75352a0343304b1fb73c8848d3bfd5fa19973
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213360"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128071"
 ---
 # <a name="scaling-your-audiences-with-frontrow-feature"></a>FrontRow 기능을 사용 하 여 대상 사용자 확장
 

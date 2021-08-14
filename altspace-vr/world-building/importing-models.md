@@ -1,17 +1,17 @@
 ---
-title: 인 글 Tf 모델 가져오기
+title: glTF 모델 가져오기
 description: 3D가 나 AltspaceVR 환경을 적절 하 게 가져오고 문제를 해결 하는 방법에 대해 알아봅니다.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 모델,가 중, 가져오기, sketchfab, 문제 해결
-ms.openlocfilehash: 4489f90832bd1cf85ff161caed11684257cce6ab
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 527c38fc49028258fa432445fe14a355710a18be65ee74252a8c39bc1bfe5190
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213257"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127063"
 ---
-# <a name="importing-gltf-models"></a>인 글 Tf 모델 가져오기
+# <a name="importing-gltf-models"></a>glTF 모델 가져오기
 
 > [!NOTE]
 > 이 기능은 초기 액세스 프로그램에서 선택한 사용자에 게 제공 됩니다.

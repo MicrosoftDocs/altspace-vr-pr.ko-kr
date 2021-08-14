@@ -4,12 +4,12 @@ description: AltspaceVR 세계를 만들고 관리 하 고 홍보 하는 방법 
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 세계, 기능
-ms.openlocfilehash: 48a294efb151461d79d707b66aeeeaa47528d2f8
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2f5faab6311a245035a374060ef6306dd0f2b469970ccbea8df999c72721f321
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213392"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125614"
 ---
 # <a name="managing-worlds"></a>세계 관리
 
@@ -26,7 +26,7 @@ ms.locfileid: "107213392"
 ![세계를 선택 하는 Universe 패널](images/manage-worlds-img-02.png)
 
 3. 기본 Universe에는 기본 세계가 있습니다.
-4. 템플릿을 선택 합니다. 몇 가지 기본으로 시작 합니다. 고유한 템플릿을 만드는 데 관심이 있는 경우 [Unity 업 로더](world-building-toolkit-getting-started.md) 를 확인 합니다. 세부 정보를 입력 하 고 이미지를 업로드 해야 합니다. 그러면 사용자가 세계의 모습을 파악할 수 있습니다. 준비가 되 면 **만들기** 를 선택 합니다.
+4. 템플릿 선택. 몇 가지 기본으로 시작 합니다. 고유한 템플릿을 만드는 데 관심이 있는 경우 [Unity 업 로더](world-building-toolkit-getting-started.md) 를 확인 합니다. 세부 정보를 입력 하 고 이미지를 업로드 해야 합니다. 그러면 사용자가 세계의 모습을 파악할 수 있습니다. 준비가 되 면 **만들기** 를 선택 합니다.
 
 ![입력 필드를 사용 하 여 [세계 패널에서 열기] 만들기](images/manage-worlds-img-03.png)
 
