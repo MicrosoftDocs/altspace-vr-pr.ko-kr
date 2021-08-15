@@ -1,17 +1,17 @@
 ---
-title: AltspaceVR가 동작 sickness을 야기 하나요?
+title: AltspaceVR이 멀미를 유발할 수 있나요?
 description: VR 환경에서 진행 sickness에 대 한 최신 질문과 대답을 최신 상태로 유지 합니다.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 동작 sickness, vr, nausea
-ms.openlocfilehash: 54f746bc2b213f011dbf94c2703ed039b4717d72
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 29d7c20ae16a212ba808b6f1d16909a7f0d29daf7e2f6fd6e8401c83cbdb2e7e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213369"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128159"
 ---
-# <a name="will-altspacevr-cause-motion-sickness"></a>AltspaceVR가 동작 sickness을 야기 하나요?
+# <a name="will-altspacevr-cause-motion-sickness"></a>AltspaceVR이 멀미를 유발할 수 있나요?
 
 ## <a name="why-do-some-people-feel-ill-in-vr"></a>몇 명의 사용자가 VR에서 잘못 생각 하는 이유는 무엇 인가요?
 

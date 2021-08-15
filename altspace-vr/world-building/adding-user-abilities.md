@@ -4,12 +4,12 @@ description: AltspaceVR 이벤트에서 사용자에 게 특별 한 기능을 �
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 기능, 사용자, 역할
-ms.openlocfilehash: 7f60a9bcdd61a71cfc86373f66c702903365456d
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: de03bcff2c0239ba5709e848523690c5fb5c85dc350661eca822094d21b87785
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212699"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126160"
 ---
 # <a name="adding-user-abilities"></a>사용자 기능 추가
 
@@ -24,7 +24,7 @@ ms.locfileid: "107212699"
 
 ## <a name="roles-and-abilities"></a>역할 및 기능
 
-* **파일럿** -비행 (설정 > 입력 > 날아오기)으로 이동 하 여 VR에서이를 활성화 해야 합니다.
+* **파일럿** -비행 (설정 > 입력 > 날아오기)로 이동 하 여 VR에서이를 활성화 해야 합니다.
 * **megaphone_only** -사용 하도록 설정 된 경우 누구나 귀를 듣게 됩니다.
 * **musical_performer** -향상 된 오디오 품질 및 대역폭 사용량
 * **Terraformer** -전 세계 편집기에 액세스

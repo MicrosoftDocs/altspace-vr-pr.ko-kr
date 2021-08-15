@@ -1,17 +1,17 @@
 ---
-title: 다른 사용자가 메시지를 듣지 못함
+title: 다른 사용자가 내 말을 듣지 못함
 description: AltspaceVR에서 다른 사용자와 관련 된 문제를 확인 하 고 해결 하는 방법을 알아봅니다.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 자주 묻는 질문(FAQ)
-ms.openlocfilehash: b6248e46b62e1a29324e831e686aee7b1de4505a
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 189d96790207085a2a2c47e964c0db8a08ed95a76d91d2ced3026ba3455b45e3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213361"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128095"
 ---
-# <a name="other-users-cant-hear-me"></a>다른 사용자가 메시지를 듣지 못함
+# <a name="other-users-cant-hear-me"></a>다른 사용자가 내 말을 듣지 못함
 
 먼저 AltspaceVR에서 마이크의 오디오를 검색 하는지 확인 합니다. 통신 하는 동안 보기의 왼쪽 아래에 있는 마이크 아이콘이 깜박이는지 여부를 살펴보면이를 확인할 수 있습니다. 통신할 때 아이콘이 깜박이는 경우 마이크가 작동 하 고 있는 것입니다. 아이콘이 빨간색 이면 음소거 됩니다. 아이콘을 선택 하 여 음소거 하거나 음소거를 해제 합니다.
 
@@ -19,11 +19,11 @@ ms.locfileid: "107213361"
  
 ## <a name="oculus-quest"></a>Oculus Quest 
 
-AltspaceVR를 설치할 때 Mic 오디오를 사용할 수 있는 권한을 부여 해야 합니다. 메뉴/설정/오디오/오디오 입력 선택을 확인 하 고 Android 오디오 입력으로 설정 (Quest/Quest2's 기본 mic) 할 수 있습니다.
+AltspaceVR를 설치할 때 Mic 오디오를 사용할 수 있는 권한을 부여 해야 합니다. 메뉴/설정/오디오/오디오 입력 선택을 확인 하 고 Android 오디오 입력으로 설정 (Quest/Quest2's 기본 mic) 할 수도 있습니다.
  
-## <a name="windows-mixed-reality-oculus-rift-htc-vive-or-2d-mode"></a>Windows Mixed Reality, Oculus Rift, HTC Vive 또는 2D 모드
+## <a name="windows-mixed-reality-oculus-rift-htc-vive-or-2d-mode"></a>Windows Mixed Reality, oculus Rift, HTC vive 또는 2d 모드
 
-AltspaceVR: Menu/Settings/Audio/Audio Input Selection에 올바른 마이크 설정이 있는지 확인 합니다. 그런 다음 화살표 단추를 사용 하 여 사용할 Mic를 선택 합니다.
+AltspaceVR: Menu/설정/audio/Audio Input Selection에 올바른 마이크 설정이 있는지 확인 합니다. 그런 다음 화살표 단추를 사용 하 여 사용할 Mic를 선택 합니다.
 
 AltspaceVR을 시작 하기 전에 Windows에서 적절 한 마이크가 기본 기록 장치로 설정 되었는지 확인 합니다. Rift 및 HTC Vive에는 모두 기본 제공 마이크가 있습니다. AltspaceVR에 연결 된 다른 마이크가 해당 장치를 사용 하려고 할 수 있습니다.
  

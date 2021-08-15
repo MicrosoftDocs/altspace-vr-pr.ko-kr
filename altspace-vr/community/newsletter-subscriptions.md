@@ -4,12 +4,12 @@ description: 주간 뉴스레터에 등록 하 고 예정 된 이벤트, 새로�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 신문
-ms.openlocfilehash: ebd0f2dd2166588ad0c4f2c04877400df4678e66
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: e2d2c7a31c790cbf3b4b661add566de45385e279f42918249bd6b20a203aeb94
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213224"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125086"
 ---
 # <a name="subscribing-to-our-newsletter"></a>뉴스레터 구독
 

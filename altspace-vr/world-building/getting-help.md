@@ -3,13 +3,13 @@ title: 어디에서 도움을 받을 수 있나요?
 description: AltpsaceVR 환경을 지원 하 고 도움을 얻기 위해 최상의 채널을 최신 상태로 유지 합니다.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: help
-ms.openlocfilehash: 5ba7e82881f79c6c5bbb4fdf5140c291f28c3b71
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: 도움말
+ms.openlocfilehash: c3543c4130b7742e5356de71c6e93d8b3a78be168a73496cf834b56e1c1c4229
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212646"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125377"
 ---
 # <a name="where-can-i-get-help"></a>어디에서 도움을 받을 수 있나요?
 

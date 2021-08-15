@@ -4,12 +4,12 @@ description: Xbox 360 및 게임 패드 컨트롤러에 대 한 기본 제공 Al
 ms.date: 02/10/2021
 ms.topic: article
 keywords: xbox, xbox 360, 게임 패드, windows, 컨트롤
-ms.openlocfilehash: dccdd8ba8c8603d2d6999c6829dc40e6a37e5c83
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 4b0adcc8a3cad9c07f825417ec484e73c2bcf7d1965a9b7d0398eefb086c0ad7
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213124"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127898"
 ---
 # <a name="using-a-gamepad-in-altspacevr"></a>AltspaceVR에서 게임 패드 사용
 

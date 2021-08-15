@@ -4,12 +4,12 @@ description: 새 AltspaceVR 계정을 만드는 방법 및 기존 AltspaceVR 계
 ms.date: 06/25/2021
 ms.topic: article
 keywords: 등록, 계정, 계정 만들기, 계정 연결, Microsoft 계정, faqs, 문제 해결, 2D 모드, VR 모드, 사용자 이름, 표시, 이름
-ms.openlocfilehash: ea54c18ad8316911626159045ac7cca24b6643a0
-ms.sourcegitcommit: becdc9d9de1ce09a74aaf57af1b9de44c8346dc2
+ms.openlocfilehash: 213fcb788d99942aed0eccfc62b7d47221e93aa435349a12127d6d2e06463bd3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/26/2021
-ms.locfileid: "112975834"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127915"
 ---
 # <a name="creating-and-linking-your-altspacevr-account"></a>AltspaceVR 계정 만들기 및 연결
 
@@ -17,7 +17,7 @@ ms.locfileid: "112975834"
 
 아래에는 AltspaceVR 계정을 만들고 연결할 수 있는 다양한 방법이 나와 있습니다.
 
-계정을 만들거나 업데이트할 때는 AltspaceVR "password"가 필요한 기능이 여전히 있다는 점을 염두에 두어야 합니다.
+계정을 만들거나 업데이트할 때는 AltspaceVR "암호"가 필요한 기능이 여전히 있다는 점을 염두에 두어야 합니다.
 
 MSA를 사용하여 계정을 만들었고 AltspaceVR 암호가 없는 경우 에 https://www.altvr.com/ 로그인하고 프로필로 이동한 다음 "로그아웃하고 새 암호 받기"를 클릭합니다.
 
@@ -40,7 +40,7 @@ Microsoft 로그인을 사용하여 계정 만들기:
 
 Microsoft 로그인을 사용하여 계정 만들기:
 
-1. 기본 앱 스토어 또는 라이브러리에서 [AltspaceVR의 라이브 빌드를 다운로드하여](https://altvr.com/getaltspacevr) 시작합니다. <br>*애플리케이션이 이미 있는 경우 최신 업데이트가 설치되어 있는지 확인합니다.*
+1. 기본 설정 앱 스토어 또는 라이브러리에서 [AltspaceVR의 라이브 빌드를 다운로드하여](https://altvr.com/getaltspacevr) 시작합니다. <br>*애플리케이션이 이미 있는 경우 최신 업데이트가 설치되어 있는지 확인합니다.*
 2. 애플리케이션을 시작합니다.
 3. "로그인" 단추와 "Microsoft에 로그인" 단추를 선택합니다.
 3. 별도의 창이 열리고 사용하려는 Microsoft 계정을 선택하라는 메시지가 표시됩니다. 직장 또는 학교 계정에 연결된 계정이 아닌 개인 Microsoft 계정을 선택합니다.
@@ -76,15 +76,15 @@ PC에서 2D 모드로 연결:
 
 * 계정 연결 프로세스 중에 문제가 발생하는 경우 계정 연결을 다시 시도하기 전에 AltspaceVR을 종료하고 닫습니다.
 * VR 모드에 있고 문제가 발생하는 경우 헤드셋의 플러깅을 해제하고 2D PC 모드(또는 그 반대로)로 전환해 보세요.
-* Microsoft 계정 다시 연결할 수 없는 경우에도 사용자 이름 및 암호를 사용하여 AltspaceVR로 돌아갈 수 있습니다. "AltspaceVR로 로그인" 단추를 선택하기만 합니다.
-* VR을 사용하는 경우 대화 상자를 열라는 메시지가 표시되면 AltspaceVR에서 사용하려는 Microsoft 자격 증명을 이미 사용하는 PC에서 이 작업을 수행합니다.
-* 주 메뉴 > 설정 > 지원 > 로그 업로드로 가서 문제가 발생하면 **로그를 제출합니다.**
+* Microsoft 계정 다시 연결할 수 없는 경우에도 사용자 이름과 암호를 사용하여 AltspaceVR로 돌아갈 수 있습니다. "AltspaceVR로 로그인" 단추를 선택하기만 합니다.
+* VR을 사용하는 경우 대화 상자를 열라는 메시지가 표시되면 AltspaceVR에서 사용하려는 Microsoft 자격 증명을 이미 사용하고 있는 PC에서 이 작업을 수행합니다.
+* 주 메뉴 > 설정 > 지원 > 업로드 로그로 가서 문제가 발생하면 **로그를 제출합니다.**
 
 ## <a name="account-registration-faq"></a>계정 등록 FAQ
 
 **다른 사용자에게 표시되는 이름은 무엇인가요?**
 
-"표시 이름"은 다른 사용자가 아바타 위에 표시되는 이름입니다. "사용자 이름"은 사용자를 친구로 추가한 사용자의 메뉴에 있는 친구 탭에 표시됩니다. 표시 이름과 사용자 이름이 모두 아바타의 이름 태그에 표시됩니다.
+"표시 이름"은 다른 사용자가 아바타 위에 표시되는 이름입니다. "사용자 이름"은 사용자를 친구로 추가한 사용자에 대한 메뉴의 친구 탭에 표시됩니다. 표시 이름과 사용자 이름이 모두 아바타의 이름 태그에 표시됩니다.
 
 **내 표시 이름은 고유해야 합니까?**
  
@@ -97,7 +97,7 @@ PC에서 2D 모드로 연결:
 
 **내 사용자 이름 또는 표시 이름을 변경하기 위해 어떻게 해야 합니까?**
 
-**사용자 이름 또는 표시 이름** 을 변경하려면 altvr.com 로그인하고 오른쪽 위에 있는 프로필 아이콘인 사용자 프로필, 편집을 선택하고 사용자 이름 또는 표시 이름을 업데이트합니다. 
+**사용자 이름 또는 표시 이름** 을 변경하려면 altvr.com 로그인하고 오른쪽 위에서 사용자 프로필, 편집 및 사용자 이름 또는 표시 이름을 업데이트합니다. 
 
 *참고: 사용자 이름을 한 번만 변경할 수 있습니다. 그 후 언제든지 지원 티켓을 제출해야 합니다.*
 
@@ -113,17 +113,17 @@ PC에서 2D 모드로 연결:
 
 AltspaceVR 계정을 Microsoft 계정과 연결해도 공개적으로 표시된 사용자 이름 또는 이름은 변경되지 않습니다. 계정 로그인 자격 증명(프라이빗)만 변경됩니다. AltspaceVR에서 이름, 사용자 이름 및 프로필 사진을 다른 사용자에게 표시하는 방법을 완전히 제어할 수 있습니다.
 
-**계정을 계속 전환할 수 있나요? 이 옵션은 더 이상 설정 아래에 없습니다.**
+**계정을 계속 전환할 수 있나요? 이 옵션은 더 이상 설정 않습니다.**
 
-예, 약간 다시 인코레이션했습니다. 이제 주 메뉴 > 내 > 계정에서 계정을 & 계정을 전환할 수 **있습니다.**
+예, 약간 다시 인코레이션했습니다. 이제 주 메뉴 > 내 > 계정에서 계정을 & 계정을 관리할 수 **있습니다.**
 
 **Microsoft 계정이 이미 있나요?**
 
-이미 Microsoft 계정이 있을 수 있습니다. Xbox에서 Minecraft, 게임을 재생하거나 Office 365를 구독하거나 다른 Microsoft 제품 또는 서비스를 정기적으로 사용하나요? 그렇다면 이미 Microsoft 로그인이 있을 것입니다. 여기에서 이메일이 기존 MSA에 이미 연결되어 있는지 확인할 수 [있습니다.](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
+이미 Microsoft 계정이 있을 수 있습니다. Xbox에서 Minecraft, 게임을 재생하거나, Office 365 구독하거나, 다른 Microsoft 제품 또는 서비스를 정기적으로 사용하나요? 그렇다면 이미 Microsoft 로그인이 있을 것입니다. 여기에서 이메일이 기존 MSA에 이미 연결되어 있는지 확인할 수 [있습니다.](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
 
-**Outlook을 사용하여 새 이메일 주소를 만들어야 합니까?**
+**Outlook 사용하여 새 이메일 주소를 만들어야 합니까?**
 
-아니요. Microsoft와 호스트되지 않은 경우에도 현재 이메일 주소를 사용하여 Microsoft 계정을 설정할 수 있습니다. (예: G-Mail, Yahoo 등). 클래식 AltspaceVR 계정과 동일한 이메일을 공유하는 Microsoft 자격 증명으로 로그인하는 경우 로그인한 후 계정을 연결하라는 메시지가 표시됩니다. 프롬프트에 따라 클래식 계정에 로그인하면 Altspace 및 Microsoft 계정이 연결됩니다.
+아니요. Microsoft와 호스트되지 않은 경우에도 현재 이메일 주소를 사용하여 Microsoft 계정을 설정할 수 있습니다. (예: G-Mail, Yahoo 등) 클래식 AltspaceVR 계정과 동일한 이메일을 공유하는 Microsoft 자격 증명으로 로그인하는 경우 로그인한 후 계정을 연결하라는 메시지가 표시됩니다. 프롬프트에 따라 클래식 계정에 로그인하면 Altspace 및 Microsoft 계정이 연결됩니다.
 
 **비용이 들까요?**
 
@@ -147,7 +147,7 @@ Microsoft 계정에 연결한 후 AltspaceVR에 로그인하는 데 문제가 �
 
 **개인 정보 및 데이터는 어떻게 해야 합니까?**
 
-[서비스 약관](../community/terms-of-service.md) 또는 [개인정보처리방침은](https://privacy.microsoft.com/privacystatement)변경되지 않습니다. Microsoft 및 AltspaceVR은 개인 정보를 보호하기 위해 최선을 다하고 있습니다. 또한 데이터 및 정보와 관련하여 완전히 제어할 수 있도록 커밋된 상태로 유지합니다. 여기에서 개인 정보 보호와 관한 Microsoft의 핵심 원칙에 대해 자세히 알아볼 수 [있습니다.](https://privacy.microsoft.com) 여기에서 Microsoft 계정과 관련된 Microsoft의 개인 데이터에 대한 자세한 정보를 요청할 수도 [있습니다.](https://www.microsoft.com/concern/privacyrequest-msa) 마지막으로 활성 AltspaceVR 계정이 있는 경우 데이터의 복사본을 요청하고 언제든지 데이터를 삭제하도록 요청할 수 있습니다.
+[서비스 약관](../community/terms-of-service.md) 또는 [개인정보처리방침은](https://privacy.microsoft.com/privacystatement)변경되지 않습니다. Microsoft 및 AltspaceVR은 개인 정보를 보호하기 위해 최선을 다하고 있습니다. 또한 데이터 및 정보와 관련하여 완전히 제어할 수 있도록 커밋된 상태로 유지합니다. 여기에서 개인 정보 보호에 대한 Microsoft의 핵심 원칙에 대해 자세히 알아볼 수 [있습니다.](https://privacy.microsoft.com) 여기에서 Microsoft 계정과 관련된 Microsoft의 개인 데이터에 대한 자세한 정보를 요청할 수도 [있습니다.](https://www.microsoft.com/concern/privacyrequest-msa) 마지막으로 활성 AltspaceVR 계정이 있는 경우 데이터의 복사본을 요청하고 언제든지 데이터를 삭제하도록 요청할 수 있습니다.
 
 ## <a name="more-resources"></a>기타 참고 자료
 

@@ -4,12 +4,12 @@ description: 모바일 앱 또는 Oculus 스토어에서 AltspaceVR에 설치 �
 ms.date: 03/11/2021
 ms.topic: article
 keywords: oculus, oculus 퀘스트, 퀘스트 2, 문제 해결, 마이크, 지원
-ms.openlocfilehash: 355b6720711868a75c280922deae4db00c132661
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 712e5c0c4057e94f3464b723943d6b26534cf116d4f0d6fd8855016cb90d67be
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212984"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127765"
 ---
 # <a name="oculus-questquest-2-installation"></a>Oculus Quest/Quest 2 설치
 
@@ -62,6 +62,6 @@ AltspaceVR를 사용 하려면 사용자가 말할 수 있는 "설정" 위치에
 * 테스트용으로 로드 앱을 완전히 제거 하 고 스토어에서 다시 설치 해 봅니다.
 * 시작 오류가 계속 되 면 추가로 지원할 수 있도록 지원 티켓을 엽니다.
 
-## <a name="see-also"></a>참조
+## <a name="see-also"></a>추가 정보
 
 * [Oculus 지원-Oculus 저장소 사용](https://support.oculus.com/414963819268125/)

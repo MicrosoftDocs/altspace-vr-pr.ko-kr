@@ -4,12 +4,12 @@ description: 장치에 대 한 기본 컨트롤을 알아보고, 사용 권한�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: oculus, 컨트롤, 사용 권한, 손 제스처
-ms.openlocfilehash: 9a10c782a4fac587621dec33d97bdfb9b9eca04d
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: f5e68382d27cd155ab83ae6ea862297641744af678db8158532a6030341c8c7a
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213114"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127864"
 ---
 # <a name="oculus-questquest-2-controls-and-permissions"></a>Oculus Quest/Quest 2 컨트롤 및 사용 권한
 

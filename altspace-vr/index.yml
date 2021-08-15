@@ -18,7 +18,7 @@ highlightedContent:
       url: journey.md
     - title: 콘텐츠 및 사람 검색
       itemType: overview
-      url: getting-started/system-requirements.md
+      url: community/exploring-title-screen.md
     - title: 이벤트 만들기
       itemType: how-to-guide
       url: tutorials/creating-an-event.md
