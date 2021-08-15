@@ -21,13 +21,13 @@ MRE SDK는 Node.JS 사용하여 AltspaceVR 확장을 빌드하기 위한 새로�
 
 1. AltspaceVR(Steam 또는 Oculus Store)을 설치하고, AltspaceVR 계정을 만들고, 앱을 숙지합니다.
 2. [Git 명령줄 도구 설치](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-3. [MRE SDK 샘플 리포지토리로](https://github.com/Microsoft/mixed-reality-extension-sdk-samples) 이동하여 단계별 지침에 따라 샘플을 빌드하고 실행합니다.
+3. [MRE SDK 샘플 리포지토리로](https://github.com/Microsoft/mixed-reality-extension-sdk-samples) 이동하고 단계별 지침에 따라 샘플을 빌드하고 실행합니다.
 
 다음도 가능합니다.
 
 * [MRE SDK Discord Community](https://discord.com/invite/xyBcQec) 조인하여 다른 MRE 개발자와 채팅합니다.
 * [Building Tic-Tac-Toe 비디오 시청](https://www.youtube.com/watch?v=DQHrdK9JSXI&ab_channel=AltspaceVR)
-* [Visual Studio Code](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code) 사용하여 MRES를 편집하고 빌드하는 방법을 알아봅니다.
+* [Visual Studio Code](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code) 사용하여 MREs를 편집하고 빌드하는 방법을 알아봅니다.
 * Hello World [소스 코드](https://github.com/Microsoft/mixed-reality-extension-sdk-samples/tree/master/samples/hello-world) 찾아보기
 * [AltspaceVR의 주간 개발자 모임에](https://account.altvr.com/channels/sdk) 참여
 

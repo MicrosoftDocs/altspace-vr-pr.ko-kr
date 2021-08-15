@@ -1,9 +1,9 @@
 ---
 title: 커뮤니티 도우미 프로그램
-description: AltspaceVR 커뮤니티에 대해 자주 묻는 질문에 대 한 최신 답변을 최신으로 유지 합니다.
+description: AltspaceVR 커뮤니티에 대한 질문과 대답에 대한 최신 답변을 최신 상태로 유지합니다.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: faq, 커뮤니티, 도우미 프로그램, faq (질문과 대답)
+keywords: faq, community, helper program, 질문과 대답
 ms.openlocfilehash: 9c1f95f33d4fb5eb41efcd0339ae5c1b35d16fe6ff78446796c4e789590411a3
 ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
@@ -13,54 +13,54 @@ ms.locfileid: "119126526"
 ---
 # <a name="community-helper-program"></a>커뮤니티 도우미 프로그램
 
-## <a name="what-is-a-community-helper"></a>Community 도우미 란 무엇 인가요? 
+## <a name="what-is-a-community-helper"></a>Community 도우미란? 
 
-Community 도우미는 정보를 공유 하 고, 다른 사람에 게 학습 하 고, 커뮤니티 문장은 사용할 수 있는 정기적인 AltspaceVR 멤버입니다. AltspaceVR의 다양 한 측면 (예: 이벤트 호스팅 또는 전 세계 빌드)에 익숙합니다 .이는 [Community 표준](community-standards.md) 및 [서비스 약관](terms-of-service.md)을 exemplify 하 고 취했습니다 합니다. Community 도우미가 AltspaceVR의 직원 또는 관리자가 아닌 경우에는 새로운 사람들을 환영 하 고, AltspaceVR 문화에 대해 다른 사람들을 교육 하 고, AltspaceVR을 준비 하는 데 최선을 다 하는 훌륭한 개인 그룹입니다.
+Community 도우미는 정보를 공유하고, 다른 사람을 교육하고, 커뮤니티 규약 역할을 하는 시간을 자원하는 일반 AltspaceVR 멤버입니다. 이벤트 호스팅 또는 세계 빌드와 같은 AltspaceVR의 다양한 측면에 익숙하며 [Community 표준](community-standards.md) 및 서비스 약관을 예시하고 [지지합니다.](terms-of-service.md) Community 도우미는 AltspaceVR의 직원 또는 관리자가 아니지만 새로운 사람들을 환영하고, 다른 사람에게 AltspaceVR의 문화권에 대해 교육하고, AltspaceVR을 모두를 환영하는 위치로 만들기 위해 최선을 다하고 있는 훌륭한 개인 그룹입니다.
 
 ## <a name="how-do-i-find-a-community-helper"></a>Community 도우미를 찾을 어떻게 할까요? 있나요? 
-Community 도우미는 AltspaceVR에서 어디에 나 있습니다. 아바타를 마우스로 가리키고 해당 이름 태그를 살펴보면 이러한 항목을 식별할 수 있습니다. Community 도우미의 이름 태그에는 녹색 윤곽선과 녹색 하트 배지가 있습니다. 이러한 사용자는 자원 봉사 문장은 이기 때문에 Community 도우미가 언제 든 지 배지를 설정/해제 하 여 AltspaceVR를 일반 Altspacers로 즐길 수 있습니다.
+Community 도우미는 AltspaceVR의 모든 위치에 있습니다. 아바타 위로 마우스를 가져가고 이름 태그를 확인하여 식별할 수 있습니다. Community 도우미 이름 태그에는 녹색 윤곽선과 녹색 하트 배지가 있습니다. Community 도우미는 언제든지 배지를 켜기/끄기로 전환하여 AltspaceVR을 일반 Altspacers로 이용할 수 있습니다.
 
-## <a name="how-can-i-become-a-community-helper"></a>Community 도우미가 되도록 하려면 어떻게 해야 하나요? 
+## <a name="how-can-i-become-a-community-helper"></a>Community 도우미가 되나요? 
 
-한정자 
+자격: 
 
-Community 도우미 역할에 적용 하기 전에 모든 Community 도우미는 최소 3 개월 (90 일) 동안 AltspaceVR의 일부 여야 합니다. Community 도우미에 적용 하려면 세 가지 이상의 자격을 충족 해야 합니다. 
+모든 Community 도우미는 Community Helper 역할을 신청하기 전에 적어도 3개월(90일) 동안 AltspaceVR의 일부여야 합니다. Community 도우미로 적용하려면 다음 세 가지 자격 중 최소 2개를 충족해야 합니다. 
 
-1. 지난 1 개월 (30 일) 동안 세 개 이상의 [주 이벤트](../tutorials/main-events.md) 를 호스트 했습니다. 
-2. 지난 3 달 (90 일) 내에 5 개 이상의 [주 이벤트](../tutorials/main-events.md) 를 배웠습니다. 
-3. AltspaceVR (문화, 콘텐츠, 커뮤니티 등)에 대 한 놀라운 기여를 위해 Community 지원 팀 구성원이 권장 했습니다.
+1. 지난 1개월(30일) 동안 3개 이상의 [주 이벤트를](../tutorials/main-events.md) 호스트했습니다. 
+2. 지난 3개월 동안 5개 이상의 [주 이벤트를](../tutorials/main-events.md) 조정했습니다(90일). 
+3. AltspaceVR(문화권, 콘텐츠, 커뮤니티 등)에 대한 뛰어난 기여를 위해 Community 지원 팀 멤버가 권장했습니다.
 
-## <a name="what-would-i-be-expected-to-do-as-a-community-helper"></a>Community 도우미로 수행할 것으로 예상 되는 것은 무엇 인가요? 
+## <a name="what-would-i-be-expected-to-do-as-a-community-helper"></a>Community 도우미로 무엇을 해야 할까요? 
 
-Community 도우미는 이러한 기대를 충족 하거나 초과 해야 합니다. 
+Community 도우미는 다음 기대치를 충족하거나 초과해야 합니다. 
 
-1. [Community 표준](community-standards.md) 및 [서비스 약관](terms-of-service.md)을 따르고 있습니다.
-2. AltspaceVR가 환영, 안전 및 완성도를 주는 챔피언 및 exemplify 동작입니다.
-3. 커뮤니티와 AltspaceVR 팀 간의 단체 역할을 합니다.
-    * 다른 사람들에 게 설명 하 고, 가능한 경우 도움이 되며, Altspacers에 대 한 질문에 답변 합니다.
-    * [공식 Discord 서버](https://altvr.com/discord) 또는 소셜 미디어에 대 한 유용한 및 종류의 응답으로 Chime
-    * [Altvr.com/help](../world-building/getting-help.md) 또는 [altvr.com/feedback](https://help.altvr.com/hc/requests/new?ticket_form_id=360001742213) 와 같은 적절 한 통신 채널을 사용자에 게 직접 전달
-    * 긍정적이 고 유용한 방식으로 AltspaceVR 직원과의 통신 및 공동 작업 
-4. 온라인, 세계, 실시간으로 모든 상호 작용에서 긍정적인 챔피언 AltspaceVR에 커밋합니다. 
-5. AltspaceVR 커뮤니티에 참여:
-    * 이벤트에 참석 하 여 Commons Hubs &의 시간 지출
-    * 정기적으로 호스트 하는 기본 이벤트
-    * [공식 Discord 서버](https://altvr.com/discord) 에서 유용 하 고 긍정적인 방법으로 참여
-    * 빌드 환경, MRE를 사용 하 여 만들기 등이 있습니다. 
+1. Community 표준 및 서비스 [약관을](community-standards.md) 따르고 [따릅니다.](terms-of-service.md)
+2. AltspaceVR을 환영하고 안전하며 완성도 있게 만드는 동작을 환영하고 예시합니다.
+3. 커뮤니티와 AltspaceVR 팀 간의 연락 역할을 합니다.
+    * 다른 사람에게 교육하고, 가능한 경우 도움이 되고, 흥미로운 Altspacers의 질문에 답변합니다.
+    * [공식 디스패서드 서버](https://altvr.com/discord) 또는 소셜 미디어에서 유용하고 종류가 있는 응답과 함께 하는 디스패서
+    * altvr.com/help [또는](https://help.altvr.com/hc/requests/new?ticket_form_id=360001742213) [altvr.com/feedback](../world-building/getting-help.md) 같은 적절한 통신 채널로 안내
+    * 긍정적이고 유용한 방식으로 AltspaceVR 직원과 소통하고 공동 작업 
+4. 온라인, 전 세계 및 실제 상황에서 모든 상호 작용에서 AltspaceVR을 적극적으로 선택하도록 커밋합니다. 
+5. AltspaceVR 커뮤니티에 참여합니다.
+    * 이벤트에 참가하고 Commons Hubs & Worlds에서 시간을 보냅니다.
+    * 정기적으로 주 이벤트 호스트 및 조정
+    * [공식 디스패코드 서버에서](https://altvr.com/discord) 유용하고 긍정적인 방식으로 참여
+    * Worlds를 빌드하고, MRE를 사용하여 를 만드는 등의 등을 진행합니다. 
 
-## <a name="do-i-get-special-privileges-as-a-community-helper"></a>Community 도우미로 서 특별 한 권한을 얻을 까 요? 
+## <a name="do-i-get-special-privileges-as-a-community-helper"></a>Community 도우미로서 특별한 권한을 받나요? 
 
-예 ... undying 사랑 및 감사 합니다. 또한 다음 작업도 수행합니다.
+예... 우리의 마음에 없는 애과 움마를 드립니다. 또한 다음 작업도 수행합니다.
 
-1. 투표-일시 중단: Community 도우미로는 트롤 및 Community 표준 위반에 대 한 조치를 취할 수 있는 추가 안전 도구가 있습니다. [여기](community-helper-guide.md)에서 투표-일시 중단에 대 한 규칙 & 책임을 검토 합니다.
-2. 공식 AltspaceVR Discord 서버에서 특수 한 Community 도우미 채널에 액세스 합니다.
-3. 특정 커뮤니티 알림에 대 한 초기 액세스.
+1. 일시 중단 투표: Community 도우미로서 Community 표준을 위반하는 행위자 및 에 대해 조치를 취할 수 있는 추가 안전 도구가 있습니다. 여기에서 투표-일시 중단에 대한 규칙 & 책임을 [검토합니다.](community-helper-guide.md)
+2. 공식 AltspaceVR Discord 서버에서 특수 Community 도우미 채널에 액세스합니다.
+3. 특정 커뮤니티 알림에 대한 초기 액세스.
 
 ## <a name="other-considerations"></a>기타 고려 사항
 
-AltspaceVR는 자격 요구 사항을 충족 하는 데 실패 하는 경우에 Community 도우미 배지를 해지할 수 있는 권리, AltspaceVR의 기대를 유지 하는 데 실패, 프로그램 용량, Community 표준 및 서비스 약관 위반, 나열 되지 않았지만 유효한 것으로 간주 되는 이유 등을 보유 합니다.
+AltspaceVR은 자격 요구 사항을 충족하지 못한 경우 Community 도우미 배지, 기대치 유지 실패, AltspaceVR의 장시간 부재, 프로그램 용량의 이유, Community 표준 및 서비스 약관 위반, 나열되지 않았지만 유효한 것으로 간주되는 모든 이유를 취소할 수 있는 권리를 보유합니다.
 
-Community 도우미가 있고 배지를 분실 하거나 지정한 경우 프로그램에 다시 적용 하기 전에 최소 6 개월 (180 일) 동안 기다려야 합니다.
+Community 도우미이고 배지를 분실하거나 배지를 포기한 경우 프로그램을 다시 적용하기 전에 최소 6개월(180일)을 기다려야 합니다.
 
-적용할 준비가 되셨습니까?
-좋습니다! [여기에 적용](https://help.altvr.com/hc/requests/new?ticket_form_id=360002060313)하세요.
+적용할 준비가 되셨나요?
+좋습니다! [여기에서 적용하세요.](https://help.altvr.com/hc/requests/new?ticket_form_id=360002060313)
