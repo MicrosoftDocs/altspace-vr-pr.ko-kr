@@ -13,12 +13,12 @@ ms.locfileid: "119127932"
 ---
 # <a name="i-cant-launch-altspacevr"></a>AltspaceVR을 시작할 수 없습니다.
 
-AltspaceVR이 시작되지 않을 수 있는 몇 가지 이유가 있습니다. 다음 단계를 시도하여 필요한 타사 소프트웨어와 함께 애플리케이션이 올바르게 설치되었는지 확인합니다.
+AltspaceVR이 시작되지 않을 수 있는 몇 가지 이유가 있습니다. 다음 단계를 시도하여 애플리케이션이 필요한 타사 소프트웨어와 함께 올바르게 설치되었는지 확인합니다.
 
 ## <a name="if-youre-trying-to-launch-altspacevr-for-the-first-time"></a>처음으로 AltspaceVR을 시작하려는 경우:
 
 1. 디바이스가 지원되고 지정된 최소 요구 사항 을 충족하는지 [확인합니다.](../getting-started/system-requirements.md)
-2. 최신 [Oculus Software가](https://www.oculus.com/setup) 설치되어 있고 설정 > 일반 > 알 수 없는 디바이스가 ON으로 설정되어 있는지 확인합니다. 2D 모드로 시작하는 경우 Oculus를 설치할 필요가 없습니다.
+2. 최신 [Oculus Software가](https://www.oculus.com/setup) 설치되어 있고 설정 > 일반 > 알 수 없는 디바이스가 ON으로 설정되어 있는지 확인합니다. 2D 모드에서 시작하는 경우 Oculus를 설치할 필요가 없습니다.
 3. 작동하는 인터넷 연결이 있는지 확인합니다. 네트워크 방화벽 내에서 Altspace를 시작하려는 경우 UDP 포트 5055 및 5056과 TCP 포트 80 및 443을 엽니다. 회사 또는 교육용 방화벽의 네트워크 내에 있는 경우 네트워크 관리자 또는 IT 부서에 문의해야 할 수 있습니다.
 4. 참고 항목:
     * [Oculus Quest용 AltspaceVR 설치](../getting-started/oculus-installation.md)
@@ -35,14 +35,14 @@ AltspaceVR이 시작되지 않을 수 있는 몇 가지 이유가 있습니다. 
 ## <a name="if-the-program-was-working-but-ceased-to-launch-after-update"></a>프로그램이 작동 중이지만 업데이트 후 시작이 중단된 경우:
 
 * 소프트웨어의 '정리 다시 설치'를 수행합니다. 이렇게 하려면 기존 버전의 애플리케이션을 제거하거나 제거해야 합니다. 시스템에서 완전히 제거되면 Steam, Oculus 또는 Microsoft Store 통해 Altspace를 설치합니다.
-* AltspaceVR을 시작하는 데 문제가 있는 경우 [지원 티켓을](https://help.altvr.com/hc/requests/new)통해 알려주세요. 세션에서 [로그 파일을](uploading-client-logs.md) 포함합니다.
+* AltspaceVR을 시작하는 데 문제가 있는 경우 [지원 티켓을](https://help.altvr.com/hc/requests/new)통해 알려주세요. 세션의 [로그 파일을](uploading-client-logs.md) 포함합니다.
 
 ## <a name="if-altspacevr-fails-to-launch-after-customizing-your-home-space"></a>홈 공간을 사용자 지정한 후 AltspaceVR이 시작되지 않는 경우:
 
 * [홈 공간의 웹 사이트](https://account.altvr.com/users/sign_in)로 이동합니다.
 * 세계의 템플릿이 여전히 존재하는지 확인합니다. 템플릿이 사용자와 공유된 경우 소유자가 템플릿을 삭제했을 수 있으며 이로 인해 홈 공간이 로드되지 않을 수 있습니다.
     * 템플릿이 삭제된 경우 왼쪽 'World Tools' 패널에서 전 세계를 '편집'하고, 기존 템플릿을 다른 템플릿으로 바꾸고, '업데이트'를 사용하여 변경 내용을 저장합니다.
-* 왼쪽 'World Tools' 패널에서 '개체'를 선택하여 로드에 실패할 수 있는 개체를 제거합니다. 문제가 있는 개체에는 다음이 포함될 수 있습니다.
+* 왼쪽 'World Tools' 패널에서 'Objects'를 선택하여 로드에 실패할 수 있는 개체를 제거합니다. 문제가 있는 개체에는 다음이 포함될 수 있습니다.
     * 삭제된 키트의 개체 또는 키트에서 삭제된 개체는 여전히 전 세계에 존재합니다.
     * 실험적 GLTF.
 * 위의 항목의 주소를 지정한 후 AltspaceVR을 다시 입력합니다.

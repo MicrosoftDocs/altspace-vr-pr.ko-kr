@@ -17,7 +17,7 @@ ms.locfileid: "119126764"
 
 오늘부터 AltspaceVR은 최신 버전의 Unity(2020.3.9)로 업그레이드되었습니다. 이 업데이트는 몇 가지 성능 향상 외에도 통합하게 되어 기쁩니다. 이 변경 내용은 모든 기존 콘텐츠와 호환되어야 합니다. 그렇지 않은 경우 지원 담당자에게 문의하세요 altvr.com/support
 
-2020.3.9로의 이 이동은 사용자 생성 콘텐츠에 영향을 미치지 않았지만, 몇 주 후에 사용자가 콘텐츠를 업데이트해야 하는 AltspaceVR의 [스테레오 렌더링 모드를]( https://docs.unity3d.com/Manual/SinglePassStereoRendering.html)변경합니다. [Single Pass Instancing으로](https://docs.unity3d.com/Manual/SinglePassInstancing.html) 업그레이드하면 전 세계에서 성능이 크게 향상될 수 있습니다. 이 새 빌드는 더 이상 2019.4 및 이전 버전 콘텐츠와의 호환성을 지원하지 않습니다. 주요 변경 내용을 방지하기 위해 가능한 한 빨리 모든 작성자 소유 콘텐츠를 업데이트해야 합니다. 아래 가이드에 따라 콘텐츠를 업데이트하고 Unity 2020.3.9에서 Single Pass Instancing으로 원활하게 전환할 수 있습니다.
+2020.3.9로의 이 이동은 사용자 생성 콘텐츠에 영향을 미치지 않았지만, 몇 주 후에 사용자가 콘텐츠를 업데이트해야 하는 AltspaceVR의 [스테레오 렌더링 모드를]( https://docs.unity3d.com/Manual/SinglePassStereoRendering.html)변경합니다. [Single Pass Instancing으로](https://docs.unity3d.com/Manual/SinglePassInstancing.html) 업그레이드하면 전 세계에서 성능이 크게 향상됩니다. 이 새 빌드는 더 이상 2019.4 및 이전 버전 콘텐츠와의 호환성을 지원하지 않습니다. 주요 변경 내용을 방지하기 위해 가능한 한 빨리 모든 작성자 소유 콘텐츠를 업데이트해야 합니다. 아래 가이드에 따라 콘텐츠를 업데이트하고 Unity 2020.3.9에서 Single Pass Instancing으로 원활하게 전환할 수 있습니다.
 
 > [!NOTE]
 > 다른 사람이 소유하고 사용자와 공유한 콘텐츠를 정기적으로 사용하는 경우 world/kit 소유자에게 문의하여 콘텐츠를 업데이트할 계획인지 확인합니다.
@@ -43,7 +43,7 @@ Unity 2020.3.9로 업그레이드하면 헤드셋 및 스토어 빌드 호환성
 
 업로더 0.9는 이전 버전의 업로더와 다르게 패키지됩니다. 이 패키징 변경과 동시에 새 업로더에는 새 버전의 Unity가 필요합니다. 이 가이드는 관련된 모든 사용자에 대해 이 업그레이드 프로세스를 더 원활하고 안전하게 만들기 위한 것입니다.
 
-1. **프로젝트 백업** - 전체 프로젝트 디렉터리 복사본을 만들고 안전한 곳에 배치합니다. 이 업그레이드는 파괴적 업그레이드이므로 완료한 후에는 Unity 2019.4용 번들을 만들거나 업로드할 수 없습니다. 이 업그레이드 중에 문제가 발생하는 경우 다시 사용할 프로젝트의 클린 복사본이 필요합니다. 또한 AltspaceVR이 Unity 2020.3.9로 공식적으로 업그레이드하기 전에 라이브 키트 또는 템플릿을 업데이트하는 데 필요합니다.
+1. **프로젝트 백업** - 전체 프로젝트 디렉터리 복사본을 만들고 안전한 곳에 배치합니다. 이 업그레이드는 파괴적 업그레이드이므로 완료한 후에는 Unity 2019.4용 번들을 만들거나 업로드할 수 없습니다. 이 업그레이드 중에 문제가 발생하는 경우 다시 사용할 프로젝트의 새 복사본이 필요합니다. 또한 AltspaceVR이 Unity 2020.3.9로 공식적으로 업그레이드하기 전에 라이브 키트 또는 템플릿을 업데이트하는 데 필요합니다.
 
 2. **REMOVE OLD UPLOADER** - Unity를 닫은 후 다음 파일/폴더를 삭제하고 해당하는 .meta 파일입니다.
 
@@ -65,7 +65,7 @@ Unity 2020.3.9로 업그레이드하면 헤드셋 및 스토어 빌드 호환성
 
 4. **프로젝트 업그레이드** - Unity 2020.3.9에서 정리된 프로젝트를 열고 Unity에서 프로젝트를 업그레이드하도록 허용합니다.
 
-5. (PC만 해당) **MIXED REALITY FEATURE TOOL 다운로드** - 지침에 따라 업로더 패키지의 설치를 관리하는 데 사용할 [Mixed Reality 기능 도구를](/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool)다운로드합니다.
+5. (PC만 해당) **MIXED REALITY FEATURE TOOL 다운로드** - 지침에 따라 업로더 패키지 설치를 관리하는 데 사용할 [Mixed Reality 기능 도구를](/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool)다운로드합니다.
 
 6. **UPLOADER 설치** - MR 기능 도구를 사용하여 Unity 프로젝트를 선택하고 AltspaceVR 업로더 기능을 추가합니다(AltspaceVR 제목 아래). 도구의 지침을 따릅니다.
 

@@ -1,6 +1,6 @@
 ---
 title: 지원 티켓 열기
-description: 도움말을 보거나 지원 티켓을 열거나 새 기능을 제안하려면 AltspaceVR 지원 팀에 문의하세요.
+description: AltspaceVR 지원 팀에 문의 하 여 도움을 받으세요. 지원 티켓을 열거나 새로운 기능을 제안 하세요.
 ms.date: 03/26/2021
 ms.topic: article
 keywords: 도움말, 지원
@@ -13,7 +13,7 @@ ms.locfileid: "119126492"
 ---
 # <a name="open-a-support-ticket"></a>지원 티켓 열기
 
-도움이 필요하다? 지원 팀에 연락하세요!
+손을 두어야 하나요? 지원 팀에 문의 하세요!
 
 > [!div class="nextstepaction"] 
 > [지원 티켓 열기](https://help.altvr.com/hc/en-us/requests/new)

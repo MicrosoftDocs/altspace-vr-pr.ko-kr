@@ -20,11 +20,11 @@ ms.locfileid: "119125409"
 
 ![예제 세계](images/unity-uploader-img-01.png)
 
-## <a name="setup"></a>설치 프로그램
+## <a name="setup"></a>설정
 
 1. 공식 [AltspaceVR Discord에](https://discordapp.com/invite/altspacevr) 조인하고 #world 빌드 채널을 방문합니다. 친구만 세계를 빌드할 수 있습니다.
 2. 기본 사항의 [세계 빌드 시작 가이드를](world-building-getting-started.md) 참조하세요.
-3. [Unity Hub를 설치하고](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) **Unity 2020.3.9를** 설치합니다. 이 버전과 정확하게 일치하지 않으면 업로더가 작동하지 않습니다. Unity 계정이 없는 경우 무료 Unity 계정이 필요하며, 이 작업을 수행하므로 **개인을** 선택합니다. 설치하는 동안 **Android 빌드** 옵션을 확인하고 자동 업데이트를 사용하지 않도록 설정해야 합니다.
+3. [Unity Hub를 설치하고](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) **Unity 2020.3.9를** 설치합니다. 이 버전과 정확하게 일치하지 않으면 업로더가 작동하지 않습니다. Unity 계정이 없는 경우 무료 Unity 계정이 필요하고, 재미있는 작업을 수행하므로 **개인을** 선택해야 합니다. 설치하는 동안 **Android 빌드** 옵션을 확인하고 자동 업데이트를 사용하지 않도록 설정해야 합니다.
 4. [최신 Unity 업로더 다운로드](upgrading-content-to-the-latest-unity.md#altspacevr-uploader-v090-upgrade-guide)
 5. 웹 사이트에서 [템플릿을 만듭니다.](https://account.altvr.com/space_templates/new) 이름을 **템플릿 Hello World** 지정합니다.
 6. [World를 만들고](https://account.altvr.com/worlds/my) 이름을 **로 Hello World.** **템플릿으로 Hello World** 템플릿을 선택합니다.
@@ -37,15 +37,15 @@ ms.locfileid: "119125409"
 
 1. Unity Hub를 열고 새 Unity 2020.3.9 프로젝트를 만듭니다.
 2. 프로젝트를 연 후 다운로드한 파일(Unity 패키지)을 두 번 클릭하여 업로더를 가져옵니다. 이제 **AltspaceVR이라는** 새 탭이 표시됩니다. Altspace와 함께 사용하려는 모든 Unity 프로젝트에 대한 패키지를 가져와야 합니다.
-3. **메뉴 > AltspaceVR > 빌드 설정**
+3. **AltspaceVR > 빌드 설정 > 메뉴 열기**
 4. Altspace 계정 자격 증명으로 로그인
-5. **템플릿 로드를** 선택한 다음, **Hello World 템플릿을** 선택합니다.
+5. **템플릿 로드를** 선택한 다음, **템플릿 Hello World** 선택합니다.
 6. 장면에 큐브를 추가하고 저장합니다.
 7. **Windows 빌드를** 확인하고 **Android용 빌드를 선택 취소합니다.**
 8. **업로드** 를 선택합니다. 약 1분 후에 **완료된 업로드** 표시됩니다.
 9. **Altspace를** 시작하고 Menu > **Worlds > My Worlds에서 를** 입력하여 Hello World 조인
 10. 메뉴 > 설정 > **보통 > 다시 설정 공간에서** 세계 다시 설정
-11. 큐브가 표시됩니다. 위의 비디오에서처럼 빠르게 수행하는 경우 10초 이내에 변경 내용을 볼 수 있습니다.
+11. 큐브가 표시됩니다. 위의 비디오처럼 빠르게 수행하는 경우 10초 이내에 변경 내용을 볼 수 있습니다.
 
 ## <a name="whats-supported"></a>지원되는 내용
 
@@ -53,7 +53,7 @@ ms.locfileid: "119125409"
 * 아니요: 스크립트. 보안을 위해 스크립트를 포함하는 업로드는 거부됩니다.
 * 아마도 동적 글로벌 조명과 같은 멋진 것일 수 있습니다.
 * 서로 다른 플랫폼에 대해 개별적으로 또는 함께 장면 업로드
-* [업로더를](https://account.altvr.com/worlds/featured)사용하여 빌드된 주요 세계 를 참조하세요.
+* [업로더를](https://account.altvr.com/worlds/featured)사용하여 빌드된 추천 세계 를 참조하세요.
 
 ## <a name="tips"></a>팁
 
@@ -78,7 +78,7 @@ ms.locfileid: "119125409"
     * 템플릿 페이지 통계를 확인했나요?
 
 **업로드 실패 또는 시간 부족**
-    * 가장 일반적인 업로드 오류는 잘못된 Unity 버전이 있는 것입니다. 필요한 버전과 정확히 일치해야 합니다.
+    * 가장 일반적인 업로드 오류는 잘못된 Unity 버전이 있다는 것입니다. 필요한 버전과 정확히 일치해야 합니다.
     * 업로드가 너무 클 수 있습니다. PC 장면을 100MB < 유지해 보세요. 작게 시작하고 빌드합니다. 최적화, 최적화, 최적화.
     * 간단한 큐브가 있는 새 프로젝트를 사용해 보세요.
     * 빌드 중에 강제로 종료하지 마세요. 장면을 손상할 수 있습니다. 다시 업로드해 보세요.

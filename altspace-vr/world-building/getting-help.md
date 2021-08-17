@@ -1,6 +1,6 @@
 ---
 title: 어디에서 도움을 받을 수 있나요?
-description: AltpsaceVR 환경을 지원 하 고 도움을 얻기 위해 최상의 채널을 최신 상태로 유지 합니다.
+description: AltpsaceVR 환경을 지원하고 도움을 받을 수 있는 최상의 채널을 최신 상태로 유지합니다.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 도움말
@@ -13,8 +13,8 @@ ms.locfileid: "119125377"
 ---
 # <a name="where-can-i-get-help"></a>어디에서 도움을 받을 수 있나요?
 
-Friend를 사용 하는 경우에만 친구를 빌드할 수 있습니다. 도움말을 볼 수 있는 몇 가지 방법은 다음과 같습니다.
+친구만 만들어도 친구만 만들어도 안됩니다. 다음은 도움말을 얻는 몇 가지 방법입니다.
 
-* 이 [기술 자료](../index.yml) 를 검색 하 고, 특히에서 [전 세계 빌드 섹션](world-editor-getting-started.md)을 찾아봅니다. 계정 (오른쪽 위에 있는 "로그인"을 클릭 하 고 "등록")을 만든 후이 섹션에 따라 새 문서가 게시 될 때 경고를 받습니다.
-* [세계 빌더가 Discord](https://discordapp.com/invite/altspacevr)에 참여 하세요. 대부분의 세계 빌더 및 일부 Altspace 엔지니어가 여기에서 중단 됩니다. #Help 채널에서 질문을 해 보세요.
-* [Mre SDK Discord](https://discord.gg/xyBcQec)에 참여 합니다. Microsoft SDK (소프트웨어 개발 키트) 및 Unity 도구를 사용 하는 고급 세계 빌더가 있습니다. 
+* 이 [기술 자료](../index.yml) 검색하고 특히 세계 [빌드 섹션을](world-editor-getting-started.md)탐색합니다. 계정을 만들고(오른쪽 위에서 "로그인", "등록" 클릭) 이 섹션에 따라 새 아티클이 게시될 때 경고를 받습니다.
+* World [Builders Discord에 참가합니다.](https://discordapp.com/invite/altspacevr) 대부분의 세계 빌더와 일부 Altspace 엔지니어는 여기서 중단됩니다. #help 채널에서 질문해 보세요.
+* [MRE SDK Discord](https://discord.gg/xyBcQec)에 조인합니다. 프로그래밍 SDK(소프트웨어 개발 키트) 및 Unity 도구를 사용하는 고급 세계 빌더를 위한 것입니다. 

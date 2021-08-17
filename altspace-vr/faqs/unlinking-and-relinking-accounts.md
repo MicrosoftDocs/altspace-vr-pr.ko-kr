@@ -43,7 +43,7 @@ AltspaceVR 계정을 개인 Microsoft 계정과 연결하는 것이 좋습니다
     4. "계정 연결"을 클릭하면 클래식 Altspace 계정과 Microsoft 계정이 연결됩니다. (참고: 관리자가 달리 알려주지 않는 한 현재는 직장 또는 학교 계정이 지원되지 않습니다.)
     5. Altspace를 실행하고 Microsoft 계정으로 로그인
     
-* 소비자 버전의 AltspaceVR을 사용하려는 경우 Microsoft 계정 사용해야 합니다. 직장 또는 학교 계정을 사용하는 경우 개인 Microsoft 계정에 연결하라는 오류 메시지가 대신 표시됩니다. 위의 단계에 따라 계정을 연결 해제하고 다시 연결합니다. 
+* 소비자 버전의 AltspaceVR을 사용하려는 경우 Microsoft 계정 사용해야 합니다. 직장 또는 학교 계정을 사용하는 경우 개인 Microsoft 계정에 연결하라는 오류 메시지가 대신 표시됩니다. 위의 단계에 따라 계정 연결을 해제하고 다시 연결합니다. 
 
 * 주 메뉴 > 설정 > 지원 > 업로드 로그로 가서 문제가 발생하면 **로그를 제출합니다.**
 
@@ -52,7 +52,7 @@ AltspaceVR 계정을 개인 Microsoft 계정과 연결하는 것이 좋습니다
 
 ## <a name="more-resources"></a>기타 참고 자료
 
-* [Microsoft 계정란?](https://account.microsoft.com/account?lang=)
+* [Microsoft 계정이란?](https://account.microsoft.com/account?lang=)
 * [MSA 서비스 약관](https://www.microsoft.com/servicesagreement/)
 * [모든 디바이스에서 Microsoft 계정 설정](https://account.microsoft.com/account/connect-devices)
 * [로그인할 수 없는 경우에 대한 도움말](https://support.microsoft.com//account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735)
