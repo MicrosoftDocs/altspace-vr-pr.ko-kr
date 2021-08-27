@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/04/2021
 ms.topic: article
 keywords: AltspaceVR, 가상 모임, 가상 현실 모임, VR 모임, 가상 현실 플랫폼, VR 플랫폼, 몰입 형 가상 이벤트, 모던 VR 이벤트, 가상 현실 이벤트, VR 이벤트, VR 전 세계-빌딩, 모던 VR 환경, 소셜 VR, 소셜 VR 플랫폼, VR 이벤트 호스팅, 소셜 가상 현실, 가상 현실 이벤트 호스팅
-ms.openlocfilehash: 9d5ccc5f74abf3c141f5786ba3650c3820eb8d49b8e914ab5a2a07828391ba04
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 1227807b34065c9706b8a67b2f9fc2368f5b7fdd
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119131848"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122979009"
 ---
 # <a name="what-is-altspacevr"></a>AltspaceVR 정의
 
@@ -43,7 +43,7 @@ AltspaceVR는 관심 영역에 적합 한 다양 한 [콘텐츠 채널](https://
 
 AltspaceVR for Business는 [Microsoft 메시를 사용할](/mesh/)수 있습니다. 곧 3D 실사 상태 및 공간 멀티 플레이 환경을 즐길 수 있습니다. AltspaceVR는 공동 작업, 회사 이벤트 및 직원 참여 gatherings을 위해 비즈니스 VR 플랫폼으로 전환 됩니다.
 
-## <a name="see-also"></a>추가 정보
+## <a name="see-also"></a>참조
 
 가상 이벤트를 전 세계에 제공할 수 있나요? 여기서 경험을 시작 합니다.
 > [!div class="nextstepaction"]
