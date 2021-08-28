@@ -1,5 +1,7 @@
 - name: AltspaceVR 시작
   href: index.yml
+- name: AltspaceVR 개요
+  href: overview.md
 - name: AltspaceVR 살펴보기
   href: journey.md
 - name: 시작
