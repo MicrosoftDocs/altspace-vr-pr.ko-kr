@@ -1,49 +1,51 @@
 ---
-title: Oculus Quest/Quest 2 컨트롤 및 사용 권한
-description: 장치에 대 한 기본 컨트롤을 알아보고, 사용 권한을 관리 하 고, 사용 제스처를 사용 하는 방법에 대해 알아봅니다.
-ms.date: 03/11/2021
+title: Oculus Quest/Quest 2 컨트롤 및 권한
+description: Oculus Quest 및 Quest 2 디바이스에 대한 기본 컨트롤, 사용 권한 관리 및 손 제스처 사용에 대해 알아봅니다.
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
-keywords: oculus, 컨트롤, 사용 권한, 손 제스처
-ms.openlocfilehash: f5e68382d27cd155ab83ae6ea862297641744af678db8158532a6030341c8c7a
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+keywords: oculus, oculus quest, controls, permissions, hand gestures
+ms.openlocfilehash: 5c74ddaee54e1319d80cf270d291575bbae7219c
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127864"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871164"
 ---
-# <a name="oculus-questquest-2-controls-and-permissions"></a>Oculus Quest/Quest 2 컨트롤 및 사용 권한
+# <a name="oculus-questquest-2-controls-and-permissions"></a>Oculus Quest/Quest 2 컨트롤 및 권한
 
 ## <a name="basic-controls"></a>기본 컨트롤
 
-<!-- Missing images -->
+<img src="images/quest2-controls.png" alt="Oculus Quest/Quest 2 controls">
 
-| 왼쪽 | 오른쪽 |
+| 왼손 | 오른쪽 |
 |---|---|
-| 왼쪽 엄지 스틱-이동/스크롤 | 오른쪽 엄지 스틱-전환/스크롤 |
-| X 동작 | -Action |
-| Y-텔레포트 | B-텔레포트 |
-| 메뉴-AltspaceVR 메뉴 열기 | Oculus-열기 OculusHome |
-| 왼쪽 그립-왼쪽이 있는 잡기 개체 | 오른쪽 그립-right를 사용 하 여 개체 잡기 |
-| 왼쪽 트리거-화재/Run | 오른쪽 트리거-화재 |
-| 왼쪽 엄지 스틱-다시 설정 HMD 및 고도를 클릭 합니다. |  |
+| 왼쪽 엄지스틱 - 이동/스크롤 | 오른쪽 엄지스틱 - 턴/스크롤 |
+| X - 작업 | A - 작업 |
+| Y - Teleport | B - Teleport |
+| 메뉴 - AltspaceVR 메뉴 열기 | Oculus - Open OculusHome |
+| 왼쪽 그립 - 좌손으로 개체 잡기 | 오른쪽 그립 - 오른쪽으로 개체 잡기 |
+| 왼쪽 트리거 - 실행/실행 | 오른쪽 트리거 - 실행 |
+| 왼쪽 엄지스틱 클릭 - HMD 및 고도 다시 설정 |  |
 
 ## <a name="hand-gestures"></a>손 제스처
+
+<img src="images/quest2-hand-gesture-controls.png" alt="Oculus Quest/Quest 2 hand gestures">
 
 | 제스처 | 입력 |
 |---|---|
 | 미사용 | 기본 위치 |
-| 점 인덱스 손가락 | 저장 된 그립 단추 |
-| 엄지 손가락 위로 | 저장 된 트리거 단추 & 그립 |
-| 피스트 | 그립, 트리거 및 A/X 단추 보유 |
+| 지점 인덱스 손가락 | 그립 단추 보유 |
+| 만족해 하다 | 그립 & 트리거 단추 보유 |
+| 주먹 | 그립, 트리거 및 A/X 단추 보유 |
 
 ## <a name="managing-permissions"></a>사용 권한 관리
 
-<!-- Missing image -->
+Oculus 라이브러리에서 앱별로 Oculus Quest에 대한 권한을 관리하려면 다음을 수행합니다.
 
-Oculus 라이브러리에서 앱 별로 사용 권한을 관리 하려면 다음을 수행 합니다.
+1. Oculus 라이브러리에서 앱으로 이동합니다.
+2. 세 **개의 점 아이콘을** 선택하여 앱의 메뉴를 엽니다.
+3. 표시되는 드롭다운 메뉴에서 **사용 권한을** 선택합니다.
 
-1. Oculus 라이브러리에서 앱으로 이동 합니다.
-2. **3 점 아이콘** 을 선택 하 여 앱의 메뉴를 엽니다.
-3. 표시 되는 드롭다운 메뉴에서 **사용 권한** 을 선택 합니다.
-
-' 사용 권한 ' UI가 로드 되며, 각 앱에 대해 설정 하거나 해제할 수 있습니다.
+각 앱에 대해 켜고 끌 수 있는 '권한' UI가 로드됩니다.

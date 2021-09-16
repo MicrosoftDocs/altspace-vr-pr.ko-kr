@@ -1,17 +1,21 @@
 ---
 title: 바로 가기 키
 description: AltspaceVR 애플리케이션에서 지원하는 사용 가능한 모든 바로 가기 키 및 작업을 최신 상태로 유지합니다.
-ms.date: 02/10/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: 키보드, 바로 가기
-ms.openlocfilehash: 5106f34d7cdba5ad42ca04070e66b7b77157f46554e5f3542b08ecb6e7f15030
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: b994590583fb6eea4141598febce40510ae77fb8
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127881"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871274"
 ---
 # <a name="keyboard-shortcuts"></a>바로 가기 키
+
+<img src="images\keyboard-shortcuts.png" alt="Keyboard shortcuts">
 
 | 키 | 작업 |
 |---|---|
