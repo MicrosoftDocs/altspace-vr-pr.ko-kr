@@ -15,7 +15,7 @@ highlightedContent:
   items:
     - title: 시작
       itemType: get-started
-      url: journey.md
+      url: overview.md
     - title: 콘텐츠 및 사람 검색
       itemType: overview
       url: community/exploring-title-screen.md
@@ -30,7 +30,7 @@ highlightedContent:
       url: world-building/early-access.md
     - title: 문제 해결
       itemType: reference
-      url: faqs/vr-headset-mic.md
+      url: faqs/audio-faq.md
 productDirectory:
   title: 시작
   summary: 'AltspaceVR을 사용하여 이벤트를 주최하고, 가상 세계를 구축하고, 전 세계의 원격 사용자 및 커뮤니티와 교류하세요.'
@@ -94,13 +94,13 @@ additionalContent:
         - title: 문제 해결 및 지원
           links:
             - text: 오디오 문제
-              url: faqs/vr-headset-mic.md
+              url: faqs/audio-faq.md
             - text: 계정 및 아바타
-              url: faqs/nametags.md
+              url: faqs/account-avatar-faq.md
             - text: AltspaceVR 애플리케이션
-              url: faqs/app-version.md
+              url: faqs/altspacevr-app-faq.md
             - text: 건강 및 안전
-              url: faqs/motion-sickness.md
+              url: faqs/health-safety-faq.md
             - text: 이벤트
               url: faqs/front-row-events.md
         - title: 문의처

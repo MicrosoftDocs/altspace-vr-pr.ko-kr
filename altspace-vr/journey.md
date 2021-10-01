@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/26/2021
 ms.topic: article
 keywords: AltspaceVR, 가상 모임, 가상 현실 모임, VR 모임, 가상 현실 플랫폼, VR 플랫폼, 몰입 형 가상 이벤트, 모던 VR 이벤트, 가상 현실 이벤트, VR 이벤트, VR 전 세계-빌딩, 모던 VR 환경, 소셜 VR, 소셜 VR 플랫폼, VR 이벤트 호스팅, 소셜 가상 현실, 가상 현실 이벤트 호스팅
-ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
-ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
+ms.openlocfilehash: dc88f0ff8664b062a8be9f5cbf79e7ddd3f4872a
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122979033"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310479"
 ---
 # <a name="exploring-altspacevr"></a>AltspaceVR 살펴보기
 
@@ -48,7 +48,7 @@ AltspaceVR 이벤트는 가상 환경에서 발생 하므로 가상 공간을 �
 |  검사점  |  결과  |
 | --- | --- |
 | [제목 화면 탐색](community/exploring-title-screen.md) | 제목 화면에서 AltspaceVR 플랫폼으로 이동 하 여 로그인 하거나 이벤트를 입력 하거나 아바타를 사용자 지정 합니다. |
-| [소셜 기능 & nametags](faqs/nametags.md) | Nametags 및 소셜 기능이 AltspaceVR 내에서 작동 하는 방식 알아보기 |
+| [소셜 기능 & nametags](faqs/account-avatar-faq.md#how-do-nametags-work) | Nametags 및 소셜 기능이 AltspaceVR 내에서 작동 하는 방식 알아보기 |
 
 ## <a name="4-creating--hosting-events"></a>4. & 호스팅 이벤트 만들기
 
