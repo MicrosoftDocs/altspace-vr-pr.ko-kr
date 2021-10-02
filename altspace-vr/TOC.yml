@@ -127,44 +127,18 @@
       href: community/terms-of-service.md
     - name: 커뮤니티 표준
       href: community/community-standards.md
-- name: 문제 해결 및 지원
+- name: 문제 해결 및 FAQ 지원
   items:
-    - name: 질문과 대답
-      items:
-        - name: 오디오
-          items:
-            - name: 내 VR 헤드셋에는 기본 제공 마이크가 있나요?
-              href: faqs/vr-headset-mic.md
-            - name: PTT(Push-to-Talk) 단추가 있나요?
-              href: faqs/push-to-talk.md
-            - name: 내 오디오가 고르지 않음
-              href: faqs/choppy-audio.md
-            - name: 다른 사용자가 내 말을 듣지 못함
-              href: faqs/other-users-cant-hear-me.md
-        - name: 계정 및 아바타
-          items:
-            - name: 이름표는 어떻게 작동하나요?
-              href: faqs/nametags.md
-            - name: 내 계정 정보를 어떻게 변경하나요?
-              href: faqs/updating-email-address.md
-            - name: 계정 연결을 해제하고 다시 연결하려면 어떻게 해야 하나요?
-              href: faqs/unlinking-and-relinking-accounts.md
-        - name: AltspaceVR 애플리케이션
-          items:
-            - name: AltspaceVR 앱 버전은 어떻게 찾을 수 있나요?
-              href: faqs/app-version.md
-            - name: 클라이언트 로그는 어떻게 업로드할 수 있나요?
-              href: faqs/uploading-client-logs.md
-            - name: AltspaceVR를 시작할 수 없음
-              href: faqs/unable-to-launch.md
-        - name: 건강 및 안전
-          items:
-            - name: AltspaceVR이 멀미를 유발할 수 있나요?
-              href: faqs/motion-sickness.md
-        - name: 이벤트
-          items:
-            - name: FrontRow 이벤트란?
-              href: faqs/front-row-events.md
+    - name: 오디오 문제
+      href: faqs/audio-faq.md
+    - name: 계정 및 아바타
+      href: faqs/account-avatar-faq.md
+    - name: AltspaceVR 애플리케이션
+      href: faqs/altspacevr-app-faq.md
+    - name: 건강 및 안전
+      href: faqs/health-safety-faq.md
+    - name: FrontRow 이벤트
+      href: faqs/front-row-events.md
 - name: 문의처
   items:
     - name: 도움말 보기
