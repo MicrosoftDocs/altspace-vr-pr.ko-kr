@@ -1,17 +1,17 @@
 ---
 title: 2D PC 모드에서 마우스/키보드를 사용 하 여 컨트롤 아바타
 description: 새 컨트롤 구성표와 클래식 컨트롤 구성표를 전환 하 여 2D PC 모드에서 마우스 및 키보드를 사용 하 여 아바타를 이동 하는 방법을 알아봅니다.
-ms.date: 9/14/2021
+ms.date: 10/4/2021
 author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: 아바타, 마우스, 키보드, 2d, pc 모드, 컨트롤
-ms.openlocfilehash: 680ef1eb1a8751e4437b147fd1bec7e0911500b6
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: bacaf5e267ab28cc410b5659a34273b12ad36be5
+ms.sourcegitcommit: 44cb9f91859001dbda7d15e0f25f94284708a715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871239"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129446309"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>2D PC 모드에서 마우스/키보드를 사용 하 여 컨트롤 아바타
 
@@ -35,7 +35,7 @@ ms.locfileid: "127871239"
 
 ### <a name="new-pc-controls-for-keyboard--mouse"></a>키보드/마우스에 대 한 새 PC 컨트롤
 
-<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
+![입력 매핑이 있는 키보드 및 마우스](images/keyboard-mouse-controls.svg)
 
 ## <a name="classic-pc-controls"></a>클래식 PC 컨트롤 
 
